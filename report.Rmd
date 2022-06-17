@@ -198,11 +198,11 @@ for i in {1..1000};do ./Infomap --clu --ftree -d networks/networksForInfomap/col
 
 ## Find most frequent solution
 ```{r find-freq, echo=TRUE}
-n<-100
+n<-10
 #######COLLECTED NETWORK#######
 solM<-matrix(0,nrow=vcount(collectedNetworkBB),ncol=n)
 for (i in 1:n){
-  sol<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/collected/sol",i,".clu"),skip=8,sep=" ")
+  sol<-read.csv(paste0("infomapSolutions/collected/sol",i,".clu"),skip=8,sep=" ")
   names(sol)<-c("node","membership","flow","NA")
   sol<-sol[,-4]
   sol <- sol[order(sol$node),]
@@ -231,7 +231,7 @@ no[l]<-length(which(nmiM[l,]==1))
 #######BILDUNG NETWORK#######
 solMB<-matrix(0,nrow=vcount(collectedBildungNetworkBB),ncol=n)
 for (i in 1:n){
-  sol<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/bildung/sol",i,".clu"),skip=8,sep=" ")
+  sol<-read.csv(paste0("infomapSolutions/bildung/sol",i,".clu"),skip=8,sep=" ")
   names(sol)<-c("node","membership","flow","NA")
   sol<-sol[,-4]
   sol <- sol[order(sol$node),]
@@ -253,7 +253,7 @@ noB[l]<-length(which(nmiMB[l,]==1))
 #######COMPETENCE NETWORK#######
 solMC<-matrix(0,nrow=vcount(collectedCompetenceNetworkBB),ncol=n)
 for (i in 1:n){
-  sol<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/competence/sol",i,".clu"),skip=8,sep=" ")
+  sol<-read.csv(paste0("infomapSolutions/competence/sol",i,".clu"),skip=8,sep=" ")
   names(sol)<-c("node","membership","flow","NA")
   sol<-sol[,-4]
   sol <- sol[order(sol$node),]
@@ -273,7 +273,6 @@ noC[l]<-length(which(nmiMC[l,]==1))
 }
 
 
-#REPEAT FOR COMPETENCE AND BILDUNG!!
 which.max(no)
 which.max(noC)
 which.max(noB)
@@ -284,19 +283,19 @@ From the analysis above, we find the
 ```{r select-solution, echo=TRUE}
 
 
-memBB<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/collected/sol",which.max(no),".clu"),skip=8,sep=" ")
+memBB<-read.csv(paste0("infomapSolutions/collected/sol",which.max(no),".clu"),skip=8,sep=" ")
 names(memBB)<-c("node","membership","flow","NA")
 memBB<-memBB[,-4]
 memBB <- memBB[order(memBB$node),]
 
 #find a membership solution for competence networks
-memCBB<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/competence/sol",which.max(noC),".clu"),skip=8,sep=" ")
+memCBB<-read.csv(paste0("infomapSolutions/competence/sol",which.max(noC),".clu"),skip=8,sep=" ")
 names(memCBB)<-c("node","membership","flow","NA")
 memCBB<-memCBB[,-4]
 memCBB <- memCBB[order(memCBB$node),]
 
 #find a membership solution for competence networks
-memBBB<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/bildung/sol",which.max(noB),".clu"),skip=8,sep=" ")
+memBBB<-read.csv(paste0("infomapSolutions/bildung/sol",which.max(noB),".clu"),skip=8,sep=" ")
 names(memBBB)<-c("node","membership","flow","NA")
 memBBB<-memBBB[,-4]
 memBBB <- memBBB[order(memBBB$node),]
