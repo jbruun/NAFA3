@@ -359,6 +359,12 @@ for(j in 1:length(networkTexts2)){
   wordLoadMatrix[j,]<-loadsTextsOnCollectedNetwork[[j]][,1]
  linkLoadMatrix[j,]<-loadsTextsOnCollectedNetwork[[j]][,2]
 }
+
+delta_word<-wordLoadMatrix[1,]-wordLoadMatrix[2,]+1 #Bildung-Competence0+1;
+#0 means completely Competence, 1 means equal parts, 2 means completely Bildung
+
+delta_link<-linkLoadMatrix[1,]-linkLoadMatrix[2,]+1 #Bildung-Competence0+1;
+#0 means completely Competence, 1 means equal parts, 2 means completely Bildung
 ```
 ## Heatmaps
 ```{r outputs, echo=T}
