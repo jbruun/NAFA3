@@ -1,0 +1,15 @@
+pre-processing before R
+Remove '
+Remove numbers
+Remove p.
+Remove -
+Remove ellipses
+Remove "
+Remove cf.
+Remove ff
+Remove ibid.
+Remove '
+Replace ability-to ability to
+Remove phrases such as "the famous Swedish [profession][Name] "
+students use -> students employ
+researchers use

@@ -1,0 +1,200 @@
+*Vertices 87
+1 "acquired"
+2 "context_specific"
+3 "domain-specific"
+4 "knowledge"
+5 "skill"
+6 "affective_construct"
+7 "10"
+8 "individual"
+9 "cognitive"
+10 "7"
+11 "affective"
+12 "6"
+13 "interest"
+14 "motivation"
+15 "perform"
+16 "ability"
+17 "4"
+18 "outcome"
+19 "values"
+20 "8"
+21 "reflection"
+22 "challenges"
+23 "creativity"
+24 "process"
+25 "5"
+26 "autonomy"
+27 "collaborative"
+28 "commitment"
+29 "strategies"
+30 "context_life"
+31 "meta-knowledge"
+32 "meaning"
+33 "content"
+34 "basic"
+35 "respect"
+36 "civic"
+37 "open-minded"
+38 "complex"
+39 "non-cognitive"
+40 "manage"
+41 "prerequisites"
+42 "literacy"
+43 "learn"
+44 "do"
+45 "conversion_general_specific"
+46 "context_general"
+47 "disposition"
+48 "achievement"
+49 "explain"
+50 "evaluate"
+51 "11"
+52 "engage"
+53 "issuses"
+54 "citizenship"
+55 "inquiry"
+56 "understanding"
+57 "assess"
+58 "objective"
+59 "confident"
+60 "innovation"
+61 "prepared"
+62 "participate"
+63 "intervene"
+64 "improve"
+65 "informed"
+66 "product"
+67 "evidence_based/informed"
+68 "non-mathematical"
+69 "broader_than_domain"
+70 "master"
+71 "capacity"
+72 "language"
+73 "analyse"
+74 "ideas"
+75 "communicate"
+76 "13"
+77 "bildung"
+78 "general"
+79 "12"
+80 "will"
+81 "meta-cognition"
+82 "decision_making"
+83 "negotiate"
+84 "identity"
+85 "domain"
+86 "context"
+87 "3"
+*Edges
+1 2 13
+2 6 15
+2 9 22
+2 11 7
+2 13 4
+2 14 4
+2 16 54
+2 22 27
+2 25 12
+2 38 17
+2 47 8
+2 48 3
+2 79 4
+3 7 76
+3 45 6
+3 46 18
+3 57 6
+3 58 6
+3 59 3
+3 79 4
+4 5 90
+4 17 10
+4 34 4
+4 35 12
+4 36 4
+4 37 4
+4 56 8
+4 66 4
+4 67 4
+5 11 7
+5 12 4
+5 15 5
+5 18 5
+5 19 12
+5 24 20
+5 33 6
+5 44 2
+5 56 8
+5 66 4
+5 67 4
+7 21 31
+7 42 16
+7 60 14
+7 68 11
+7 69 11
+7 70 18
+7 71 6
+7 72 3
+7 73 24
+7 74 12
+7 75 12
+8 27 73
+10 21 3
+12 22 4
+16 30 30
+16 44 2
+16 72 3
+16 87 79
+19 22 12
+20 21 6
+21 49 6
+21 50 6
+21 52 6
+21 53 3
+21 54 3
+21 55 3
+22 39 10
+22 40 10
+22 41 5
+23 27 19
+24 56 8
+24 66 4
+24 67 4
+24 87 20
+26 27 50
+27 28 19
+27 29 32
+27 31 23
+27 32 24
+27 60 14
+27 61 5
+27 62 23
+27 63 5
+27 64 5
+27 65 5
+27 79 4
+27 83 8
+27 84 12
+27 85 4
+27 86 4
+27 87 92
+29 87 32
+32 87 24
+34 76 4
+35 76 12
+36 76 4
+37 76 4
+43 48 3
+43 87 12
+51 87 18
+76 87 43
+77 87 6
+78 87 6
+79 87 4
+80 87 17
+81 87 13
+82 87 17
+83 87 8
+84 87 12
+85 87 4
+86 87 4

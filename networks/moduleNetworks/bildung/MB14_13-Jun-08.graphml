@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">reachable</data>
+      <data key="v_id">reachable</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">stance</data>
+      <data key="v_id">stance</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">level</data>
+      <data key="v_id">level</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">intervening</data>
+      <data key="v_id">intervening</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">core</data>
+      <data key="v_id">core</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">theoretical</data>
+      <data key="v_id">theoretical</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">difference</data>
+      <data key="v_id">difference</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">growth</data>
+      <data key="v_id">growth</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">children</data>
+      <data key="v_id">children</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">significant</data>
+      <data key="v_id">significant</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">elite</data>
+      <data key="v_id">elite</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">solidifying</data>
+      <data key="v_id">solidifying</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">exist</data>
+      <data key="v_id">exist</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">towards</data>
+      <data key="v_id">towards</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">inspired</data>
+      <data key="v_id">inspired</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">reconfiguring</data>
+      <data key="v_id">reconfiguring</data>
+    </node>
+    <edge source="n0" target="n10">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n13">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n14">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n8">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n9">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n15">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n5">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n9" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n10" target="n11">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n12">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n13" target="n12">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n15" target="n12">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

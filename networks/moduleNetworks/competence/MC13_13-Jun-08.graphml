@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">something</data>
+      <data key="v_id">something</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">core</data>
+      <data key="v_id">core</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">see</data>
+      <data key="v_id">see</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">justification</data>
+      <data key="v_id">justification</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">subsequently</data>
+      <data key="v_id">subsequently</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">klafki</data>
+      <data key="v_id">klafki</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">web</data>
+      <data key="v_id">web</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">anthologys</data>
+      <data key="v_id">anthologys</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">effort</data>
+      <data key="v_id">effort</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">made</data>
+      <data key="v_id">made</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">find</data>
+      <data key="v_id">find</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">task</data>
+      <data key="v_id">task</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">important</data>
+      <data key="v_id">important</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">curious</data>
+      <data key="v_id">curious</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">want</data>
+      <data key="v_id">want</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">difficult</data>
+      <data key="v_id">difficult</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">crop</data>
+      <data key="v_id">crop</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">become</data>
+      <data key="v_id">become</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">elements</data>
+      <data key="v_id">elements</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">answer</data>
+      <data key="v_id">answer</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">things</data>
+      <data key="v_id">things</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">interesting</data>
+      <data key="v_id">interesting</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">premise</data>
+      <data key="v_id">premise</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">integrate</data>
+      <data key="v_id">integrate</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">quarrel</data>
+      <data key="v_id">quarrel</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">inductive</data>
+      <data key="v_id">inductive</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">perform</data>
+      <data key="v_id">perform</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">balance</data>
+      <data key="v_id">balance</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">rather</data>
+      <data key="v_id">rather</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">universe</data>
+      <data key="v_id">universe</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">encourage</data>
+      <data key="v_id">encourage</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">precondition</data>
+      <data key="v_id">precondition</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">deliberately</data>
+      <data key="v_id">deliberately</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">coach</data>
+      <data key="v_id">coach</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">proficiency</data>
+      <data key="v_id">proficiency</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">creativity</data>
+      <data key="v_id">creativity</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">broken</data>
+      <data key="v_id">broken</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">discrete</data>
+      <data key="v_id">discrete</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">artificial</data>
+      <data key="v_id">artificial</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">adjust</data>
+      <data key="v_id">adjust</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">france</data>
+      <data key="v_id">france</data>
+    </node>
+    <edge source="n0" target="n14">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n0" target="n17">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n18">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n31">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n15">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n8">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n8" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n8" target="n9">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n8" target="n10">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n10" target="n11">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n10" target="n12">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n10" target="n19">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n10" target="n27">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n12">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n13">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n34">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n35">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n12" target="n20">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n12" target="n21">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n13" target="n10">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n13" target="n35">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n14" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n14" target="n11">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n15" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n16" target="n14">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n17" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n17" target="n12">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n17" target="n15">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n17" target="n30">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n18" target="n30">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n19" target="n11">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n19" target="n17">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n21" target="n22">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n23" target="n28">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n24" target="n10">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n25" target="n28">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n26" target="n11">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n28" target="n10">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n28" target="n36">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n29" target="n11">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n30" target="n32">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n32" target="n33">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n35" target="n39">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n35" target="n40">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n36" target="n37">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n37" target="n38">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n38" target="n18">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

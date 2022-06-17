@@ -1,0 +1,405 @@
+*Vertices 122
+1 "1;competence;understanding;perspective"
+2 "2;bildung;klafki;world"
+3 "3;learner;develop;relation"
+4 "4;learn;one;content"
+5 "5;education;general;theory"
+6 "6;scientific;knowledge;order"
+7 "7;science;subject;area"
+8 "8;individual;society;cognitive"
+9 "9;self;meaning;autonomy"
+10 "10;define;ability;construct"
+11 "11;situation;specific;reality"
+12 "12;context;relevance;life"
+13 "13;become;task;important"
+14 "14;teaching;form;practice"
+15 "15;assessment;literacy;influence"
+16 "16;see;however;high"
+17 "17;others;way;together"
+18 "18;school;natural;always"
+19 "19;two;dimensions;second"
+20 "20;measure;change;ideal"
+21 "21;democracy;dewey;main"
+22 "22;model;need;valid"
+23 "23;relate;question;criticism"
+24 "24;common;objective;core"
+25 "25;oecd;project;establish"
+26 "26;use;term;liberal"
+27 "27;humanity;characterise;willingness"
+28 "28;center;contrast;interpret"
+29 "29;first;new;challenge"
+30 "30;reflect;critical;range"
+31 "31;will;action;usually"
+32 "32;according;require;citizenship"
+33 "33;view;holistic;choice"
+34 "34;result;educated;survey"
+35 "35;discourse;b;responsibility"
+36 "36;describe;position;expected"
+37 "37;people;live;young"
+38 "38;definition;selection;accepted"
+39 "39;take;goal;far"
+40 "40;complex;complete;orchestrate"
+41 "41;problem;key;solve"
+42 "42;insight;issues;future"
+43 "43;level;certain;requirements"
+44 "44;idea;emancipation;socialisation"
+45 "45;explicit;much;amount"
+46 "46;coordinate;european;target"
+47 "47;behaviour;dichotomy;interpretation"
+48 "48;differ;aspect;whereas"
+49 "49;human;open;subjective"
+50 "50;national;essential;meet"
+51 "51;domain;construction;socalled"
+52 "52;three;consist;next"
+53 "53;provide;aim;potential"
+54 "54;demand;function;particular"
+55 "55;rather;policy;debate"
+56 "56;emphasise;traditional;canon"
+57 "57;values;contemporary;norms"
+58 "58;country;many;shift"
+59 "59;instead;discuss;reformulation"
+60 "60;used;show;recognize"
+61 "61;suggest;notion;basic"
+62 "62;structure;last;resources"
+63 "63;description;precise;bengtsen"
+64 "64;observed;stance;towards"
+65 "65;drink;energy;stop"
+66 "66;nature;phenomenon;categorical"
+67 "67;example;still;recent"
+68 "68;subcompetencies;following;old"
+69 "69;late;modern;postmodern"
+70 "70;participation;increase;compete"
+71 "71;empirical;turn;argumentation"
+72 "72;humboldt;often;today"
+73 "73;social;workplace;underpinnings"
+74 "74;culture;technology;hand"
+75 "75;just;justification;name"
+76 "76;identify;major;constituents"
+77 "77;write;ministry;article"
+78 "78;reason;division;threefold"
+79 "79;role;play;every"
+80 "80;test;ml;tubes"
+81 "81;argue;time;long"
+82 "82;century;might;scandinavia"
+83 "83;interesting;conclusion;curriculum"
+84 "84;sense;equal;roughly"
+85 "85;respect;value;search"
+86 "86;call;qualification;word"
+87 "87;exist;issue;solidifying"
+88 "88;international;line;largescale"
+89 "89;economy;informed;ecological"
+90 "90;combine;moving;field"
+91 "91;give;prominence;committees"
+92 "92;look;worth;noting"
+93 "93;environmental;frontiers;hazards"
+94 "94;comparison;soil;plurality"
+95 "95;mean;achieve;event"
+96 "96;primary;low;secondary"
+97 "97;decomposition;reduce;seriously"
+98 "98;age;advanced;childhood"
+99 "99;acquire;achievement;monitor"
+100 "100;ensure;academic;ultimately"
+101 "101;introduce;ban;interference"
+102 "102;external;internal;interventions"
+103 "103;unique;diverse;involve"
+104 "104;associated;least;universities"
+105 "105;interest;viewed;early"
+106 "106;abandon;among;opposite"
+107 "107;american;career;advancement"
+108 "108;unity;comprehend;immediately"
+109 "109;especially;largely;correspond"
+110 "110;possible;side;body"
+111 "111;equipment;reaction;speed"
+112 "112;didactic;came;room"
+113 "113;back;roots;throughout"
+114 "114;artificial;discrete;broken"
+115 "115;interchangeably;imprecisely;NA"
+116 "116;chemistry;physics;geography"
+117 "117;vitamin;effervescent;receive"
+118 "118;love;joy;art"
+119 "119;continuously;quantity;static"
+120 "120;strength;unambiguously;weakness"
+121 "121;sort;preserve;NA"
+122 "122;furthermore;rationale;NA"
+*Arcs
+1 6 17
+2 5 15
+3 1 7
+4 1 11
+5 1 14
+6 4 8
+7 1 8
+7 5 8
+8 1 5
+9 3 4
+10 1 10
+11 6 6
+12 1 6
+13 17 4
+14 1 8
+15 1 7
+16 1 6
+17 4 4
+18 2 5
+19 1 3
+19 2 3
+20 1 2
+20 2 2
+21 1 2
+21 2 2
+22 1 6
+23 2 5
+24 2 2
+24 6 2
+24 19 2
+24 31 2
+24 46 2
+25 1 5
+26 1 3
+26 6 3
+27 2 2
+27 23 2
+28 1 3
+29 4 3
+29 5 3
+29 24 3
+30 1 6
+31 19 3
+32 1 4
+33 1 4
+34 3 2
+34 31 2
+34 37 2
+34 60 2
+35 1 2
+35 4 2
+36 1 3
+36 2 3
+36 8 3
+37 5 2
+38 1 3
+39 14 4
+40 2 2
+40 5 2
+41 1 3
+41 2 3
+41 11 3
+42 7 3
+43 10 3
+44 7 3
+45 3 2
+46 1 6
+47 1 4
+48 2 2
+49 2 1
+49 4 1
+49 5 1
+49 6 1
+49 8 1
+49 9 1
+49 11 1
+49 13 1
+49 17 1
+49 18 1
+49 26 1
+49 28 1
+49 50 1
+49 55 1
+49 74 1
+50 1 2
+50 10 2
+51 11 3
+52 1 3
+53 1 2
+53 4 2
+54 11 3
+55 1 1
+55 2 1
+55 6 1
+55 13 1
+55 14 1
+55 17 1
+55 22 1
+55 23 1
+55 35 1
+55 45 1
+55 104 1
+55 114 1
+56 2 2
+57 1 5
+58 2 2
+58 5 2
+58 10 2
+59 4 2
+59 5 2
+60 1 2
+60 5 2
+60 28 2
+61 2 3
+62 2 3
+63 1 2
+63 2 2
+63 7 2
+64 7 2
+65 3 1
+65 18 1
+65 20 1
+65 41 1
+65 69 1
+66 1 3
+67 13 2
+68 1 2
+69 2 2
+69 33 2
+70 8 2
+71 1 3
+72 2 2
+73 1 2
+74 1 4
+75 2 3
+76 2 1
+76 3 1
+76 12 1
+76 19 1
+76 23 1
+76 24 1
+76 29 1
+76 52 1
+76 68 1
+76 81 1
+77 2 3
+77 5 3
+78 1 1
+78 4 1
+78 10 1
+78 31 1
+78 47 1
+78 61 1
+78 68 1
+78 84 1
+79 2 2
+79 8 2
+80 20 2
+80 22 2
+81 18 2
+81 39 2
+82 2 2
+82 4 2
+83 1 2
+84 6 3
+85 6 2
+85 9 2
+86 1 2
+86 5 2
+87 6 1
+87 20 1
+87 47 1
+87 59 1
+87 74 1
+87 85 1
+88 3 2
+88 15 2
+89 1 1
+89 20 1
+89 32 1
+90 1 1
+90 7 1
+90 11 1
+90 15 1
+90 23 1
+90 31 1
+90 40 1
+90 47 1
+90 48 1
+91 1 1
+91 3 1
+91 5 1
+91 8 1
+91 13 1
+91 36 1
+91 41 1
+91 44 1
+91 64 1
+92 1 1
+92 3 1
+92 14 1
+92 15 1
+92 31 1
+92 47 1
+93 5 1
+93 7 1
+93 23 1
+93 41 1
+94 1 1
+94 5 1
+94 7 1
+94 11 1
+94 38 1
+95 5 2
+96 18 2
+97 1 2
+98 2 1
+99 2 1
+99 3 1
+99 4 1
+99 6 1
+99 24 1
+100 8 1
+100 9 1
+100 17 1
+100 54 1
+101 2 1
+101 39 1
+101 45 1
+101 65 1
+102 17 1
+102 29 1
+102 62 1
+103 2 1
+103 3 1
+103 11 1
+103 17 1
+104 9 1
+104 38 1
+104 44 1
+104 58 1
+105 1 3
+106 17 1
+106 20 1
+107 2 1
+107 7 1
+107 50 1
+108 24 1
+109 5 1
+109 19 1
+109 22 1
+109 31 1
+109 66 1
+109 72 1
+109 88 1
+110 2 1
+110 7 1
+110 20 1
+111 3 1
+112 1 1
+112 3 1
+112 6 1
+112 7 1
+112 9 1
+112 47 1
+112 83 1
+113 7 2
+114 3 1
+115 6 1
+116 5 1
+116 56 1
+117 65 1
+117 80 1
+118 2 1
+119 3 1
+120 2 1
+120 3 1
+120 10 1
+121 2 1
+122 2 1
+122 7 1

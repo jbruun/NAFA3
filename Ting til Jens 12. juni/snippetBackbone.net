@@ -1,0 +1,46 @@
+*Vertices 24
+1 "Snippet 1"
+2 "Snippet 2"
+3 "Snippet 3"
+4 "Snippet 4"
+5 "Snippet 5"
+6 "Snippet 6"
+7 "Snippet 7"
+8 "Snippet 8"
+9 "Snippet 9"
+10 "Snippet 10"
+11 "Snippet 11"
+12 "Snippet 12"
+13 "Snippet 13"
+14 "Snippet 14"
+15 "Snippet 15"
+16 "Snippet 16"
+17 "Snippet 17"
+18 "Snippet 18"
+19 "Snippet 19"
+20 "Snippet 20"
+21 "21_Jens"
+22 "22_Jesper"
+23 "23_Jonas"
+24 "24_Bob"
+*Edges
+1 3 36
+2 15 30
+2 21 37
+3 6 32
+3 23 8
+4 10 9
+4 21 91
+5 9 17
+7 8 18
+7 11 7
+7 12 13
+7 13 12
+13 21 12
+13 22 12
+14 21 18
+16 17 15
+17 18 14
+19 21 35
+20 22 18
+21 22 122

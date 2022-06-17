@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_PR" for="node" attr.name="PR" attr.type="double"/>
+  <key id="v_strength" for="node" attr.name="strength" attr.type="double"/>
+  <key id="v_degree" for="node" attr.name="degree" attr.type="double"/>
+  <key id="v_bildungWords" for="node" attr.name="bildungWords" attr.type="double"/>
+  <key id="v_competenceWords" for="node" attr.name="competenceWords" attr.type="double"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">amount</data>
+      <data key="v_PR">0.000880536471790872</data>
+      <data key="v_strength">6</data>
+      <data key="v_degree">6</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">amount</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">due</data>
+      <data key="v_PR">0.000691410569089804</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">due</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">introduce</data>
+      <data key="v_PR">0.000711079998191603</data>
+      <data key="v_strength">6</data>
+      <data key="v_degree">6</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">introduce</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">ban</data>
+      <data key="v_PR">0.000542944659858163</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">ban</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">risks</data>
+      <data key="v_PR">0.000316277364600844</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">risks</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">energy</data>
+      <data key="v_PR">0.000976471246753329</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">energy</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">unnecessary</data>
+      <data key="v_PR">0.000359617459821292</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">unnecessary</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">drink</data>
+      <data key="v_PR">0.00164378587724307</data>
+      <data key="v_strength">8</data>
+      <data key="v_degree">8</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">drink</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">consuming</data>
+      <data key="v_PR">0.000397701739292706</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">consuming</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">interference</data>
+      <data key="v_PR">0.000434540820230086</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">interference</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">substances</data>
+      <data key="v_PR">0.000328008598273908</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">substances</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">receive</data>
+      <data key="v_PR">0.000310003367399758</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">receive</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">effervescent</data>
+      <data key="v_PR">0.000577835039001753</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">effervescent</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">measurement</data>
+      <data key="v_PR">0.000378351313055753</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">measurement</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">cylinders</data>
+      <data key="v_PR">0.000430940440503019</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">cylinders</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">timeconsuming</data>
+      <data key="v_PR">0.000324233043177334</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">timeconsuming</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">considerable</data>
+      <data key="v_PR">0.000330338645535925</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">considerable</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">error</data>
+      <data key="v_PR">0.000450464595479378</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">error</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">vitamin</data>
+      <data key="v_PR">0.000637948733247528</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">vitamin</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">tablets</data>
+      <data key="v_PR">0.000374445870957339</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">tablets</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">wait</data>
+      <data key="v_PR">0.000408309578513049</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">wait</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">stop</data>
+      <data key="v_PR">0.000842228495545646</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">stop</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">fizzing</data>
+      <data key="v_PR">0.000486813089988888</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">fizzing</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">watches</data>
+      <data key="v_PR">0.000486813089988557</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">watches</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">boiling</data>
+      <data key="v_PR">0.000447144969695727</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">boiling</data>
+    </node>
+    <edge source="n0" target="n13">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n16">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n8">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n9">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n20">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n8" target="n5">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n10" target="n5">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n18">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n12" target="n18">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n12" target="n19">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n13" target="n17">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n14" target="n21">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n15" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n16" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n17" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n18" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n18" target="n12">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n19" target="n24">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n20" target="n21">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n21" target="n22">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n21" target="n23">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n22" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

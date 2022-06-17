@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="v_delta" for="node" attr.name="delta" attr.type="double"/>
+  <key id="v_n_words" for="node" attr.name="n_words" attr.type="double"/>
+  <key id="v_internallinks" for="node" attr.name="internallinks" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">1;competence;development;perspective</data>
+      <data key="v_id">M1</data>
+      <data key="v_delta">0.607142857142857</data>
+      <data key="v_n_words">28</data>
+      <data key="v_internallinks">54</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">2;bildung;klafki;german</data>
+      <data key="v_id">M2</data>
+      <data key="v_delta">1.34285714285714</data>
+      <data key="v_n_words">35</data>
+      <data key="v_internallinks">61</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">3;develop;personality;learner</data>
+      <data key="v_id">M3</data>
+      <data key="v_delta">1.125</data>
+      <data key="v_n_words">24</data>
+      <data key="v_internallinks">32</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">4;able;must;know</data>
+      <data key="v_id">M4</data>
+      <data key="v_delta">1.05555555555556</data>
+      <data key="v_n_words">18</data>
+      <data key="v_internallinks">26</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">5;education;system;general</data>
+      <data key="v_id">M5</data>
+      <data key="v_delta">0.75</data>
+      <data key="v_n_words">20</data>
+      <data key="v_internallinks">29</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">6;knowledge;scientific;skill</data>
+      <data key="v_id">M6</data>
+      <data key="v_delta">0.666666666666667</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">19</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">7;subject;science;area</data>
+      <data key="v_id">M7</data>
+      <data key="v_delta">0.666666666666667</data>
+      <data key="v_n_words">18</data>
+      <data key="v_internallinks">27</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">8;society;individual;cognitive</data>
+      <data key="v_id">M8</data>
+      <data key="v_delta">1.45454545454545</data>
+      <data key="v_n_words">11</data>
+      <data key="v_internallinks">14</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">9;autonomy;meaning;self</data>
+      <data key="v_id">M9</data>
+      <data key="v_delta">0.923076923076923</data>
+      <data key="v_n_words">13</data>
+      <data key="v_internallinks">19</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">10;ability;define;construct</data>
+      <data key="v_id">M10</data>
+      <data key="v_delta">0.176470588235294</data>
+      <data key="v_n_words">17</data>
+      <data key="v_internallinks">20</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">11;situation;specific;reality</data>
+      <data key="v_id">M11</data>
+      <data key="v_delta">0.384615384615385</data>
+      <data key="v_n_words">13</data>
+      <data key="v_internallinks">20</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">12;context;relevance;life</data>
+      <data key="v_id">M12</data>
+      <data key="v_delta">0.538461538461538</data>
+      <data key="v_n_words">13</data>
+      <data key="v_internallinks">17</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">13;task;important;find</data>
+      <data key="v_id">M13</data>
+      <data key="v_delta">0.526315789473684</data>
+      <data key="v_n_words">19</data>
+      <data key="v_internallinks">26</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">14;teaching;evaluate;form</data>
+      <data key="v_id">M14</data>
+      <data key="v_delta">0.6875</data>
+      <data key="v_n_words">16</data>
+      <data key="v_internallinks">19</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">15;assessment;literacy;pisa</data>
+      <data key="v_id">M15</data>
+      <data key="v_delta">0.333333333333333</data>
+      <data key="v_n_words">15</data>
+      <data key="v_internallinks">19</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">16;see;however;high</data>
+      <data key="v_id">M16</data>
+      <data key="v_delta">1.21428571428571</data>
+      <data key="v_n_words">14</data>
+      <data key="v_internallinks">18</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">17;others;way;together</data>
+      <data key="v_id">M17</data>
+      <data key="v_delta">1.07142857142857</data>
+      <data key="v_n_words">14</data>
+      <data key="v_internallinks">16</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">18;school;natural;always</data>
+      <data key="v_id">M18</data>
+      <data key="v_delta">1.08333333333333</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">14</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">19;dimensions;two;second</data>
+      <data key="v_id">M19</data>
+      <data key="v_delta">0.875</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">20;change;ideal;measure</data>
+      <data key="v_id">M20</data>
+      <data key="v_delta">1</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">13</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">21;democracy;dewey;main</data>
+      <data key="v_id">M21</data>
+      <data key="v_delta">1.5625</data>
+      <data key="v_n_words">16</data>
+      <data key="v_internallinks">18</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">22;model;need;representation</data>
+      <data key="v_id">M22</data>
+      <data key="v_delta">0.466666666666667</data>
+      <data key="v_n_words">15</data>
+      <data key="v_internallinks">17</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">23;relate;question;criticism</data>
+      <data key="v_id">M23</data>
+      <data key="v_delta">1.33333333333333</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">13</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">24;common;objective;core</data>
+      <data key="v_id">M24</data>
+      <data key="v_delta">0.615384615384615</data>
+      <data key="v_n_words">13</data>
+      <data key="v_internallinks">13</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">25;project;oecd;several</data>
+      <data key="v_id">M25</data>
+      <data key="v_delta">0.647058823529412</data>
+      <data key="v_n_words">17</data>
+      <data key="v_internallinks">20</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">26;term;use;minds</data>
+      <data key="v_id">M26</data>
+      <data key="v_delta">1.75</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">13</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">27;characterise;humanity;willingness</data>
+      <data key="v_id">M27</data>
+      <data key="v_delta">1</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">9</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">28;center;conveyed;awareness</data>
+      <data key="v_id">M28</data>
+      <data key="v_delta">0.866666666666667</data>
+      <data key="v_n_words">15</data>
+      <data key="v_internallinks">16</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">29;formulate;first;challenge</data>
+      <data key="v_id">M29</data>
+      <data key="v_delta">0.909090909090909</data>
+      <data key="v_n_words">11</data>
+      <data key="v_internallinks">16</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">30;reflect;critical;range</data>
+      <data key="v_id">M30</data>
+      <data key="v_delta">1.125</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">31;will;action;interaction</data>
+      <data key="v_id">M31</data>
+      <data key="v_delta">0.384615384615385</data>
+      <data key="v_n_words">13</data>
+      <data key="v_internallinks">12</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">32;responsible;citizen;citizenship</data>
+      <data key="v_id">M32</data>
+      <data key="v_delta">1.55555555555556</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">9</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">33;choice;holistic;view</data>
+      <data key="v_id">M33</data>
+      <data key="v_delta">0.166666666666667</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">13</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">34;result;survey;class</data>
+      <data key="v_id">M34</data>
+      <data key="v_delta">0.333333333333333</data>
+      <data key="v_n_words">15</data>
+      <data key="v_internallinks">15</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">35;discourse;b;responsibility</data>
+      <data key="v_id">M35</data>
+      <data key="v_delta">1.57142857142857</data>
+      <data key="v_n_words">14</data>
+      <data key="v_internallinks">14</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">36;describe;position;represent</data>
+      <data key="v_id">M36</data>
+      <data key="v_delta">0.5</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">37;people;live;young</data>
+      <data key="v_id">M37</data>
+      <data key="v_delta">0.125</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">38;definition;accepted;broadly</data>
+      <data key="v_id">M38</data>
+      <data key="v_delta">0.125</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">39;place;goal;take</data>
+      <data key="v_id">M39</data>
+      <data key="v_delta">0.733333333333333</data>
+      <data key="v_n_words">15</data>
+      <data key="v_internallinks">15</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">40;complex;mobilise;orchestrate</data>
+      <data key="v_id">M40</data>
+      <data key="v_delta">0.833333333333333</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">41;problem;key;five</data>
+      <data key="v_id">M41</data>
+      <data key="v_delta">1</data>
+      <data key="v_n_words">11</data>
+      <data key="v_internallinks">12</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">42;future;insight;issues</data>
+      <data key="v_id">M42</data>
+      <data key="v_delta">1.7</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">11</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">43;certain;realise;level</data>
+      <data key="v_id">M43</data>
+      <data key="v_delta">0.333333333333333</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">44;idea;claims;socialisation</data>
+      <data key="v_id">M44</data>
+      <data key="v_delta">1.83333333333333</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">15</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">45;much;explicit;amount</data>
+      <data key="v_id">M45</data>
+      <data key="v_delta">0.928571428571429</data>
+      <data key="v_n_words">14</data>
+      <data key="v_internallinks">13</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">46;coordinate;european;prioritization</data>
+      <data key="v_id">M46</data>
+      <data key="v_delta">0.727272727272727</data>
+      <data key="v_n_words">11</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">47;dichotomy;behaviour;state</data>
+      <data key="v_id">M47</data>
+      <data key="v_delta">0.3</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">9</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">48;aspect;differ;noncognitive</data>
+      <data key="v_id">M48</data>
+      <data key="v_delta">1.1</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">9</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">49;human;open;subjective</data>
+      <data key="v_id">M49</data>
+      <data key="v_delta">1.8</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">11</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">50;essential;national;global</data>
+      <data key="v_id">M50</data>
+      <data key="v_delta">0.5</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">9</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">51;socalled;domain;typical</data>
+      <data key="v_id">M51</data>
+      <data key="v_delta">0.2</data>
+      <data key="v_n_words">15</data>
+      <data key="v_internallinks">17</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">52;next;three;section</data>
+      <data key="v_id">M52</data>
+      <data key="v_delta">0.416666666666667</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">11</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">53;provide;aim;potential</data>
+      <data key="v_id">M53</data>
+      <data key="v_delta">0.777777777777778</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">54;demand;function;oriented</data>
+      <data key="v_id">M54</data>
+      <data key="v_delta">0.3</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">11</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">55;policy;rather;instrumental</data>
+      <data key="v_id">M55</data>
+      <data key="v_delta">1.35714285714286</data>
+      <data key="v_n_words">14</data>
+      <data key="v_internallinks">14</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">56;emphasise;traditional;canon</data>
+      <data key="v_id">M56</data>
+      <data key="v_delta">1.66666666666667</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">57;values;contemporary;possess</data>
+      <data key="v_id">M57</data>
+      <data key="v_delta">1.125</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">58;country;many;respective</data>
+      <data key="v_id">M58</data>
+      <data key="v_delta">0.875</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">59;instead;discuss;reformulation</data>
+      <data key="v_id">M59</data>
+      <data key="v_delta">0.555555555555556</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">60;used;show;instrument</data>
+      <data key="v_id">M60</data>
+      <data key="v_delta">0.5</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">61;suggest;basic;notion</data>
+      <data key="v_id">M61</data>
+      <data key="v_delta">1.5</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">62;structure;decade;resources</data>
+      <data key="v_id">M62</data>
+      <data key="v_delta">1.18181818181818</data>
+      <data key="v_n_words">11</data>
+      <data key="v_internallinks">11</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">63;description;precise;constitue</data>
+      <data key="v_id">M63</data>
+      <data key="v_delta">0.777777777777778</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">64;observed;towards;orientation</data>
+      <data key="v_id">M64</data>
+      <data key="v_delta">0.727272727272727</data>
+      <data key="v_n_words">11</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">65;drink;energy;stop</data>
+      <data key="v_id">M65</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">66;categorical;nature;experience</data>
+      <data key="v_id">M66</data>
+      <data key="v_delta">1.4</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">67;example;recent;still</data>
+      <data key="v_id">M67</data>
+      <data key="v_delta">0.333333333333333</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">68;following;subcompetencies;starting</data>
+      <data key="v_id">M68</data>
+      <data key="v_delta">0.285714285714286</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">69;modern;late;postmodern</data>
+      <data key="v_id">M69</data>
+      <data key="v_delta">0.833333333333333</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">70;participation;increase;compete</data>
+      <data key="v_id">M70</data>
+      <data key="v_delta">0.125</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">71;empirical;turn;argumentation</data>
+      <data key="v_id">M71</data>
+      <data key="v_delta">0.4</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">72;humboldt;today;often</data>
+      <data key="v_id">M72</data>
+      <data key="v_delta">1</data>
+      <data key="v_n_words">11</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">73;social;workplace;underpinnings</data>
+      <data key="v_id">M73</data>
+      <data key="v_delta">1.36363636363636</data>
+      <data key="v_n_words">11</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">74;culture;psychological;unchallenged</data>
+      <data key="v_id">M74</data>
+      <data key="v_delta">1.5</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">75;justification;name;reasonably</data>
+      <data key="v_id">M75</data>
+      <data key="v_delta">1.28571428571429</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">76;identify;constituents;richness</data>
+      <data key="v_id">M76</data>
+      <data key="v_delta">0.833333333333333</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">77;write;article;introduction</data>
+      <data key="v_id">M77</data>
+      <data key="v_delta">0.5</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">78;reason;division;threefold</data>
+      <data key="v_id">M78</data>
+      <data key="v_delta">1.77777777777778</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">79;role;play;every</data>
+      <data key="v_id">M79</data>
+      <data key="v_delta">2</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">3</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">80;test;ml;tubes</data>
+      <data key="v_id">M80</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">9</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">81;argue;time;long</data>
+      <data key="v_id">M81</data>
+      <data key="v_delta">1.5</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">82;century;scandinavia;might</data>
+      <data key="v_id">M82</data>
+      <data key="v_delta">1.4</data>
+      <data key="v_n_words">10</data>
+      <data key="v_internallinks">10</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">83;interesting;conclusion;alternative</data>
+      <data key="v_id">M83</data>
+      <data key="v_delta">0.833333333333333</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">84;sense;equal;roughly</data>
+      <data key="v_id">M84</data>
+      <data key="v_delta">1.5</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">85;respect;search;truth</data>
+      <data key="v_id">M85</data>
+      <data key="v_delta">0.571428571428571</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">86;call;word;qualification</data>
+      <data key="v_id">M86</data>
+      <data key="v_delta">1.375</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">87;exist;issue;reconfiguring</data>
+      <data key="v_id">M87</data>
+      <data key="v_delta">1.22222222222222</data>
+      <data key="v_n_words">9</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">88;international;line;largescale</data>
+      <data key="v_id">M88</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">89;economy;informed;ecological</data>
+      <data key="v_id">M89</data>
+      <data key="v_delta">0.6</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">4</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">90;combine;moving;pronounced</data>
+      <data key="v_id">M90</data>
+      <data key="v_delta">0.428571428571429</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">91;give;committees;prominence</data>
+      <data key="v_id">M91</data>
+      <data key="v_delta">0.857142857142857</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">92;worth;look;noting</data>
+      <data key="v_id">M92</data>
+      <data key="v_delta">0.166666666666667</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">93;environmental;frontiers;hazards</data>
+      <data key="v_id">M93</data>
+      <data key="v_delta">0.833333333333333</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">94;comparison;plurality;uncertainty</data>
+      <data key="v_id">M94</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">95;mean;event;achieve</data>
+      <data key="v_id">M95</data>
+      <data key="v_delta">0.6</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">4</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">96;low;progression;secondary</data>
+      <data key="v_id">M96</data>
+      <data key="v_delta">0.166666666666667</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">6</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">97;decomposition;whole;reduce</data>
+      <data key="v_id">M97</data>
+      <data key="v_delta">0.25</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">7</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">98;age;advanced;childhood</data>
+      <data key="v_id">M98</data>
+      <data key="v_delta">2</data>
+      <data key="v_n_words">4</data>
+      <data key="v_internallinks">3</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">99;acquire;achievement;monitor</data>
+      <data key="v_id">M99</data>
+      <data key="v_delta">0.6</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">4</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">100;ensure;academic;ultimately</data>
+      <data key="v_id">M100</data>
+      <data key="v_delta">1.4</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">4</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">101;introduce;ban;interference</data>
+      <data key="v_id">M101</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">6</data>
+      <data key="v_internallinks">5</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">102;external;internal;interventions</data>
+      <data key="v_id">M102</data>
+      <data key="v_delta">0.4</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">4</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">103;involve;diverse;unique</data>
+      <data key="v_id">M103</data>
+      <data key="v_delta">1.25</data>
+      <data key="v_n_words">4</data>
+      <data key="v_internallinks">3</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">104;associated;least;universities</data>
+      <data key="v_id">M104</data>
+      <data key="v_delta">1.4</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">4</data>
+    </node>
+    <node id="n104">
+      <data key="v_name">105;interest;early;renewed</data>
+      <data key="v_id">M105</data>
+      <data key="v_delta">0.5</data>
+      <data key="v_n_words">8</data>
+      <data key="v_internallinks">8</data>
+    </node>
+    <node id="n105">
+      <data key="v_name">106;abandon;among;opposite</data>
+      <data key="v_id">M106</data>
+      <data key="v_delta">2</data>
+      <data key="v_n_words">4</data>
+      <data key="v_internallinks">3</data>
+    </node>
+    <node id="n106">
+      <data key="v_name">107;american;advancement;career</data>
+      <data key="v_id">M107</data>
+      <data key="v_delta">0.428571428571429</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+    </node>
+    <node id="n107">
+      <data key="v_name">108;unity;comprehend;immediately</data>
+      <data key="v_id">M108</data>
+      <data key="v_delta">2</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+    </node>
+    <node id="n108">
+      <data key="v_name">109;especially;largely;trivialization</data>
+      <data key="v_id">M109</data>
+      <data key="v_delta">1.42857142857143</data>
+      <data key="v_n_words">7</data>
+      <data key="v_internallinks">6</data>
+    </node>
+    <node id="n109">
+      <data key="v_name">110;possible;side;body</data>
+      <data key="v_id">M110</data>
+      <data key="v_delta">1.2</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">4</data>
+    </node>
+    <node id="n110">
+      <data key="v_name">111;equipment;reaction;speed</data>
+      <data key="v_id">M111</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+    </node>
+    <node id="n111">
+      <data key="v_name">112;didactic;came;rational</data>
+      <data key="v_id">M112</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">4</data>
+      <data key="v_internallinks">3</data>
+    </node>
+    <node id="n112">
+      <data key="v_name">113;back;throughout;antiquity</data>
+      <data key="v_id">M113</data>
+      <data key="v_delta">1.8</data>
+      <data key="v_n_words">5</data>
+      <data key="v_internallinks">4</data>
+    </node>
+    <node id="n113">
+      <data key="v_name">114;artificial;discrete;broken</data>
+      <data key="v_id">M114</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+    </node>
+    <node id="n114">
+      <data key="v_name">115;interchangeably;imprecisely;NA</data>
+      <data key="v_id">M115</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">2</data>
+      <data key="v_internallinks">1</data>
+    </node>
+    <node id="n115">
+      <data key="v_name">116;chemistry;physics;geography</data>
+      <data key="v_id">M116</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">4</data>
+      <data key="v_internallinks">3</data>
+    </node>
+    <node id="n116">
+      <data key="v_name">117;vitamin;effervescent;receive</data>
+      <data key="v_id">M117</data>
+      <data key="v_delta">0</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">3</data>
+    </node>
+    <node id="n117">
+      <data key="v_name">118;love;joy;art</data>
+      <data key="v_id">M118</data>
+      <data key="v_delta">2</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+    </node>
+    <node id="n118">
+      <data key="v_name">119;continuously;quantity;static</data>
+      <data key="v_id">M119</data>
+      <data key="v_delta">2</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+    </node>
+    <node id="n119">
+      <data key="v_name">120;weakness;strength;unambiguously</data>
+      <data key="v_id">M120</data>
+      <data key="v_delta">1.33333333333333</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+    </node>
+    <node id="n120">
+      <data key="v_name">121;sort;preserve;NA</data>
+      <data key="v_id">M121</data>
+      <data key="v_delta">2</data>
+      <data key="v_n_words">2</data>
+      <data key="v_internallinks">1</data>
+    </node>
+    <node id="n121">
+      <data key="v_name">122;rationale;furthermore;NA</data>
+      <data key="v_id">M122</data>
+      <data key="v_delta">2</data>
+      <data key="v_n_words">2</data>
+      <data key="v_internallinks">1</data>
+    </node>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.00593086</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">0.0050013</data>
+    </edge>
+    <edge source="n2" target="n26">
+      <data key="e_weight">0.00236019</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">0.00201488</data>
+    </edge>
+    <edge source="n4" target="n0">
+      <data key="e_weight">0.00303791</data>
+    </edge>
+    <edge source="n5" target="n3">
+      <data key="e_weight">0.00782816</data>
+    </edge>
+    <edge source="n6" target="n0">
+      <data key="e_weight">0.00576977</data>
+    </edge>
+    <edge source="n7" target="n0">
+      <data key="e_weight">0.00207014</data>
+    </edge>
+    <edge source="n8" target="n31">
+      <data key="e_weight">0.00119824</data>
+    </edge>
+    <edge source="n9" target="n0">
+      <data key="e_weight">0.0032242</data>
+    </edge>
+    <edge source="n10" target="n5">
+      <data key="e_weight">0.000982391</data>
+    </edge>
+    <edge source="n11" target="n0">
+      <data key="e_weight">0.00117492</data>
+    </edge>
+    <edge source="n12" target="n16">
+      <data key="e_weight">0.000761425</data>
+    </edge>
+    <edge source="n13" target="n0">
+      <data key="e_weight">0.00145754</data>
+    </edge>
+    <edge source="n14" target="n0">
+      <data key="e_weight">0.00109166</data>
+    </edge>
+    <edge source="n15" target="n0">
+      <data key="e_weight">0.00116971</data>
+    </edge>
+    <edge source="n16" target="n3">
+      <data key="e_weight">0.000728394</data>
+    </edge>
+    <edge source="n16" target="n5">
+      <data key="e_weight">0.000728394</data>
+    </edge>
+    <edge source="n17" target="n2">
+      <data key="e_weight">0.000941596</data>
+    </edge>
+    <edge source="n18" target="n3">
+      <data key="e_weight">0.000909468</data>
+    </edge>
+    <edge source="n19" target="n1">
+      <data key="e_weight">0.000669723</data>
+    </edge>
+    <edge source="n20" target="n4">
+      <data key="e_weight">0.000682082</data>
+    </edge>
+    <edge source="n20" target="n7">
+      <data key="e_weight">0.000682082</data>
+    </edge>
+    <edge source="n21" target="n0">
+      <data key="e_weight">0.00120685</data>
+    </edge>
+    <edge source="n22" target="n1">
+      <data key="e_weight">0.00133285</data>
+    </edge>
+    <edge source="n23" target="n5">
+      <data key="e_weight">0.000518065</data>
+    </edge>
+    <edge source="n24" target="n0">
+      <data key="e_weight">0.000989147</data>
+    </edge>
+    <edge source="n25" target="n4">
+      <data key="e_weight">0.000608775</data>
+    </edge>
+    <edge source="n26" target="n1">
+      <data key="e_weight">0.000799494</data>
+    </edge>
+    <edge source="n27" target="n0">
+      <data key="e_weight">0.000667387</data>
+    </edge>
+    <edge source="n28" target="n4">
+      <data key="e_weight">0.00051354</data>
+    </edge>
+    <edge source="n29" target="n0">
+      <data key="e_weight">0.00123086</data>
+    </edge>
+    <edge source="n30" target="n18">
+      <data key="e_weight">0.000517274</data>
+    </edge>
+    <edge source="n31" target="n2">
+      <data key="e_weight">0.000881464</data>
+    </edge>
+    <edge source="n32" target="n0">
+      <data key="e_weight">0.00106075</data>
+    </edge>
+    <edge source="n33" target="n30">
+      <data key="e_weight">0.000556039</data>
+    </edge>
+    <edge source="n34" target="n3">
+      <data key="e_weight">0.00061405</data>
+    </edge>
+    <edge source="n35" target="n7">
+      <data key="e_weight">0.000699278</data>
+    </edge>
+    <edge source="n36" target="n4">
+      <data key="e_weight">0.000531379</data>
+    </edge>
+    <edge source="n37" target="n0">
+      <data key="e_weight">0.00061448</data>
+    </edge>
+    <edge source="n38" target="n0">
+      <data key="e_weight">0.000778377</data>
+    </edge>
+    <edge source="n39" target="n1">
+      <data key="e_weight">0.000454648</data>
+    </edge>
+    <edge source="n39" target="n4">
+      <data key="e_weight">0.000454648</data>
+    </edge>
+    <edge source="n40" target="n0">
+      <data key="e_weight">0.00067769</data>
+    </edge>
+    <edge source="n41" target="n6">
+      <data key="e_weight">0.000793308</data>
+    </edge>
+    <edge source="n42" target="n9">
+      <data key="e_weight">0.000643709</data>
+    </edge>
+    <edge source="n43" target="n6">
+      <data key="e_weight">0.000511074</data>
+    </edge>
+    <edge source="n44" target="n2">
+      <data key="e_weight">0.000493981</data>
+    </edge>
+    <edge source="n45" target="n0">
+      <data key="e_weight">0.00144484</data>
+    </edge>
+    <edge source="n46" target="n0">
+      <data key="e_weight">0.000672225</data>
+    </edge>
+    <edge source="n47" target="n1">
+      <data key="e_weight">0.000402099</data>
+    </edge>
+    <edge source="n48" target="n8">
+      <data key="e_weight">0.00023796</data>
+    </edge>
+    <edge source="n49" target="n1">
+      <data key="e_weight">0.000360727</data>
+    </edge>
+    <edge source="n50" target="n10">
+      <data key="e_weight">0.000507548</data>
+    </edge>
+    <edge source="n51" target="n0">
+      <data key="e_weight">0.000684335</data>
+    </edge>
+    <edge source="n52" target="n0">
+      <data key="e_weight">0.00047351</data>
+    </edge>
+    <edge source="n53" target="n10">
+      <data key="e_weight">0.000480347</data>
+    </edge>
+    <edge source="n54" target="n5">
+      <data key="e_weight">0.000239598</data>
+    </edge>
+    <edge source="n55" target="n1">
+      <data key="e_weight">0.000386029</data>
+    </edge>
+    <edge source="n56" target="n0">
+      <data key="e_weight">0.000893461</data>
+    </edge>
+    <edge source="n57" target="n9">
+      <data key="e_weight">0.00044824</data>
+    </edge>
+    <edge source="n58" target="n3">
+      <data key="e_weight">0.000515712</data>
+    </edge>
+    <edge source="n59" target="n4">
+      <data key="e_weight">0.000381702</data>
+    </edge>
+    <edge source="n59" target="n27">
+      <data key="e_weight">0.000381702</data>
+    </edge>
+    <edge source="n60" target="n1">
+      <data key="e_weight">0.000538739</data>
+    </edge>
+    <edge source="n61" target="n1">
+      <data key="e_weight">0.00047834</data>
+    </edge>
+    <edge source="n62" target="n6">
+      <data key="e_weight">0.000385389</data>
+    </edge>
+    <edge source="n63" target="n6">
+      <data key="e_weight">0.000309646</data>
+    </edge>
+    <edge source="n64" target="n40">
+      <data key="e_weight">0.000253955</data>
+    </edge>
+    <edge source="n65" target="n1">
+      <data key="e_weight">0.000484521</data>
+    </edge>
+    <edge source="n66" target="n12">
+      <data key="e_weight">0.000228281</data>
+    </edge>
+    <edge source="n67" target="n22">
+      <data key="e_weight">0.000283459</data>
+    </edge>
+    <edge source="n68" target="n1">
+      <data key="e_weight">0.000388717</data>
+    </edge>
+    <edge source="n69" target="n7">
+      <data key="e_weight">0.000363646</data>
+    </edge>
+    <edge source="n70" target="n0">
+      <data key="e_weight">0.000754719</data>
+    </edge>
+    <edge source="n71" target="n1">
+      <data key="e_weight">0.000382157</data>
+    </edge>
+    <edge source="n72" target="n0">
+      <data key="e_weight">0.000470471</data>
+    </edge>
+    <edge source="n73" target="n0">
+      <data key="e_weight">0.000315707</data>
+    </edge>
+    <edge source="n74" target="n1">
+      <data key="e_weight">0.000628912</data>
+    </edge>
+    <edge source="n75" target="n1">
+      <data key="e_weight">0.000266922</data>
+    </edge>
+    <edge source="n76" target="n4">
+      <data key="e_weight">0.000525739</data>
+    </edge>
+    <edge source="n77" target="n3">
+      <data key="e_weight">0.000197576</data>
+    </edge>
+    <edge source="n77" target="n9">
+      <data key="e_weight">0.000197576</data>
+    </edge>
+    <edge source="n77" target="n30">
+      <data key="e_weight">0.000197576</data>
+    </edge>
+    <edge source="n77" target="n46">
+      <data key="e_weight">0.000197576</data>
+    </edge>
+    <edge source="n77" target="n60">
+      <data key="e_weight">0.000197576</data>
+    </edge>
+    <edge source="n77" target="n83">
+      <data key="e_weight">0.000197576</data>
+    </edge>
+    <edge source="n78" target="n1">
+      <data key="e_weight">0.000500873</data>
+    </edge>
+    <edge source="n79" target="n19">
+      <data key="e_weight">0.000421911</data>
+    </edge>
+    <edge source="n80" target="n17">
+      <data key="e_weight">0.000324579</data>
+    </edge>
+    <edge source="n81" target="n3">
+      <data key="e_weight">0.000390007</data>
+    </edge>
+    <edge source="n82" target="n0">
+      <data key="e_weight">0.000439316</data>
+    </edge>
+    <edge source="n83" target="n5">
+      <data key="e_weight">0.000621732</data>
+    </edge>
+    <edge source="n84" target="n5">
+      <data key="e_weight">0.000458273</data>
+    </edge>
+    <edge source="n85" target="n4">
+      <data key="e_weight">0.000409884</data>
+    </edge>
+    <edge source="n86" target="n19">
+      <data key="e_weight">0.000225721</data>
+    </edge>
+    <edge source="n87" target="n2">
+      <data key="e_weight">0.000348085</data>
+    </edge>
+    <edge source="n87" target="n14">
+      <data key="e_weight">0.000348085</data>
+    </edge>
+    <edge source="n88" target="n0">
+      <data key="e_weight">0.000302536</data>
+    </edge>
+    <edge source="n88" target="n19">
+      <data key="e_weight">0.000302536</data>
+    </edge>
+    <edge source="n88" target="n31">
+      <data key="e_weight">0.000302536</data>
+    </edge>
+    <edge source="n89" target="n14">
+      <data key="e_weight">0.00025501</data>
+    </edge>
+    <edge source="n90" target="n4">
+      <data key="e_weight">0.000207336</data>
+    </edge>
+    <edge source="n91" target="n0">
+      <data key="e_weight">0.000193246</data>
+    </edge>
+    <edge source="n92" target="n6">
+      <data key="e_weight">0.000248817</data>
+    </edge>
+    <edge source="n93" target="n0">
+      <data key="e_weight">0.000210565</data>
+    </edge>
+    <edge source="n93" target="n4">
+      <data key="e_weight">0.000210565</data>
+    </edge>
+    <edge source="n94" target="n4">
+      <data key="e_weight">0.000280288</data>
+    </edge>
+    <edge source="n95" target="n17">
+      <data key="e_weight">0.000285422</data>
+    </edge>
+    <edge source="n96" target="n0">
+      <data key="e_weight">0.00028276</data>
+    </edge>
+    <edge source="n97" target="n1">
+      <data key="e_weight">0.000353212</data>
+    </edge>
+    <edge source="n98" target="n23">
+      <data key="e_weight">0.000225104</data>
+    </edge>
+    <edge source="n99" target="n7">
+      <data key="e_weight">0.000176756</data>
+    </edge>
+    <edge source="n99" target="n53">
+      <data key="e_weight">0.000176756</data>
+    </edge>
+    <edge source="n100" target="n1">
+      <data key="e_weight">0.000208475</data>
+    </edge>
+    <edge source="n101" target="n28">
+      <data key="e_weight">0.000217127</data>
+    </edge>
+    <edge source="n102" target="n2">
+      <data key="e_weight">0.000241174</data>
+    </edge>
+    <edge source="n103" target="n57">
+      <data key="e_weight">0.000194527</data>
+    </edge>
+    <edge source="n104" target="n0">
+      <data key="e_weight">0.000356269</data>
+    </edge>
+    <edge source="n105" target="n16">
+      <data key="e_weight">0.000235116</data>
+    </edge>
+    <edge source="n106" target="n6">
+      <data key="e_weight">0.000178899</data>
+    </edge>
+    <edge source="n107" target="n23">
+      <data key="e_weight">0.000281861</data>
+    </edge>
+    <edge source="n108" target="n4">
+      <data key="e_weight">0.000131806</data>
+    </edge>
+    <edge source="n109" target="n6">
+      <data key="e_weight">0.000158741</data>
+    </edge>
+    <edge source="n110" target="n2">
+      <data key="e_weight">0.000261531</data>
+    </edge>
+    <edge source="n111" target="n5">
+      <data key="e_weight">0.00013765</data>
+    </edge>
+    <edge source="n112" target="n6">
+      <data key="e_weight">0.000325769</data>
+    </edge>
+    <edge source="n113" target="n2">
+      <data key="e_weight">0.000224751</data>
+    </edge>
+    <edge source="n114" target="n5">
+      <data key="e_weight">0.000179883</data>
+    </edge>
+    <edge source="n115" target="n4">
+      <data key="e_weight">9.65847e-05</data>
+    </edge>
+    <edge source="n115" target="n55">
+      <data key="e_weight">9.65847e-05</data>
+    </edge>
+    <edge source="n116" target="n64">
+      <data key="e_weight">0.000104175</data>
+    </edge>
+    <edge source="n117" target="n1">
+      <data key="e_weight">0.000118694</data>
+    </edge>
+    <edge source="n118" target="n2">
+      <data key="e_weight">0.000118694</data>
+    </edge>
+    <edge source="n119" target="n1">
+      <data key="e_weight">0.000102026</data>
+    </edge>
+    <edge source="n120" target="n1">
+      <data key="e_weight">8.53584e-05</data>
+    </edge>
+    <edge source="n121" target="n6">
+      <data key="e_weight">8.53584e-05</data>
+    </edge>
+  </graph>
+</graphml>

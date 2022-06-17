@@ -1,0 +1,198 @@
+*Vertices 87
+1 "context_specific"
+2 "ability"
+3 "domain-specific"
+4 "skill"
+5 "knowledge"
+6 "individual"
+7 "problem_solving"
+8 "context_life"
+9 "cognitive"
+10 "collaborative"
+11 "reflection"
+12 "literacy"
+13 "creativity"
+14 "autonomy"
+15 "learn"
+16 "curiosity"
+17 "acquired"
+18 "process"
+19 "strategies"
+20 "meta-knowledge"
+21 "meaning"
+22 "manage"
+23 "context_general"
+24 "disposition"
+25 "participate"
+26 "affective_construct"
+27 "affective"
+28 "values"
+29 "challenges"
+30 "construct"
+31 "commitment"
+32 "complex"
+33 "engage"
+34 "understanding"
+35 "innovation"
+36 "non-mathematical"
+37 "broader_than_domain"
+38 "will_to_act"
+39 "meta-cognition"
+40 "decision_making"
+41 "interest"
+42 "motivation"
+43 "perform"
+44 "attitude"
+45 "outcome"
+46 "interpret_data"
+47 "content"
+48 "basic"
+49 "respect"
+50 "civic"
+51 "open-minded"
+52 "non-cognitive"
+53 "prerequisites"
+54 "do"
+55 "conversion_general_specific"
+56 "achievement"
+57 "explain"
+58 "evaluate"
+59 "undecidability"
+60 "science_related_issues"
+61 "citizenship"
+62 "inquiry"
+63 "assess"
+64 "objective"
+65 "confident"
+66 "prepared"
+67 "intervene"
+68 "improve"
+69 "informed"
+70 "product"
+71 "evidence_based/informed"
+72 "master"
+73 "capacity"
+74 "language"
+75 "analyse"
+76 "ideas"
+77 "communicate"
+78 "bildung"
+79 "general"
+80 "specific"
+81 "negotiate"
+82 "identity"
+83 "domain"
+84 "context"
+85 "design"
+86 "adaptability"
+87 "potential_to_act"
+*Edges
+1 2 46
+1 4 52
+1 5 52
+1 9 22
+1 17 13
+1 24 8
+1 26 15
+1 27 7
+1 29 27
+1 30 12
+1 32 17
+1 41 4
+1 42 4
+1 56 3
+1 80 4
+2 8 30
+2 54 2
+2 74 3
+3 7 76
+3 23 16
+3 55 6
+3 63 6
+3 64 6
+3 65 3
+3 80 4
+4 5 90
+4 18 20
+4 27 7
+4 28 12
+4 34 8
+4 47 6
+4 54 2
+4 70 4
+4 71 4
+4 86 4
+5 34 8
+5 44 10
+5 48 4
+5 49 12
+5 50 4
+5 51 4
+5 70 4
+5 71 4
+6 10 73
+7 11 31
+7 12 16
+7 35 14
+7 36 6
+7 37 11
+7 72 18
+7 73 6
+7 74 3
+7 75 24
+7 76 12
+7 77 12
+10 13 19
+10 14 50
+10 16 39
+10 19 32
+10 20 23
+10 21 24
+10 25 23
+10 31 14
+10 35 14
+10 38 16
+10 39 4
+10 40 13
+10 66 5
+10 67 5
+10 68 5
+10 69 5
+10 80 4
+10 81 8
+10 82 12
+10 83 4
+10 84 4
+10 87 47
+11 33 6
+11 46 6
+11 57 6
+11 58 6
+11 60 3
+11 61 3
+11 62 3
+11 85 3
+15 56 3
+15 87 12
+16 48 4
+16 49 12
+16 50 4
+16 51 4
+18 34 8
+18 70 4
+18 71 4
+18 87 20
+22 29 10
+28 29 12
+29 52 10
+29 53 5
+29 86 4
+39 87 4
+59 87 18
+78 87 6
+79 87 6
+80 87 4
+81 87 8
+82 87 12
+83 87 4
+84 87 4

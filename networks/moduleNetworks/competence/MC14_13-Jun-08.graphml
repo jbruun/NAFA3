@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">primarily</data>
+      <data key="v_id">primarily</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">content</data>
+      <data key="v_id">content</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">via</data>
+      <data key="v_id">via</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">epistemology</data>
+      <data key="v_id">epistemology</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">let</data>
+      <data key="v_id">let</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">purely</data>
+      <data key="v_id">purely</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">logical</data>
+      <data key="v_id">logical</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">construction</data>
+      <data key="v_id">construction</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">axiom</data>
+      <data key="v_id">axiom</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">socalled</data>
+      <data key="v_id">socalled</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">assist</data>
+      <data key="v_id">assist</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">abstract</data>
+      <data key="v_id">abstract</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">us</data>
+      <data key="v_id">us</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">taught</data>
+      <data key="v_id">taught</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">relying</data>
+      <data key="v_id">relying</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">solely</data>
+      <data key="v_id">solely</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">extensive</data>
+      <data key="v_id">extensive</data>
+    </node>
+    <edge source="n0" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n12">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n11">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n8">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n9">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n10">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n8" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n9" target="n8">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n13" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n14" target="n15">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n15" target="n16">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n16" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

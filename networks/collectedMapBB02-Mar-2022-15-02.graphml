@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="v_n_words" for="node" attr.name="n_words" attr.type="double"/>
+  <key id="v_internallinks" for="node" attr.name="internallinks" attr.type="double"/>
+  <key id="v_delta" for="node" attr.name="delta" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">1;social;exist;behaviour</data>
+      <data key="v_id">1;social;exist;behaviour</data>
+      <data key="v_n_words">49</data>
+      <data key="v_internallinks">49</data>
+      <data key="v_delta">0.73469387755102</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">2;learner;develop;relation</data>
+      <data key="v_id">2;learner;develop;relation</data>
+      <data key="v_n_words">182</data>
+      <data key="v_internallinks">309</data>
+      <data key="v_delta">0.692307692307692</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">3;learn;definition;problem</data>
+      <data key="v_id">3;learn;definition;problem</data>
+      <data key="v_n_words">175</data>
+      <data key="v_internallinks">318</data>
+      <data key="v_delta">0.542857142857143</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">4;bildung;education;individual</data>
+      <data key="v_id">4;bildung;education;individual</data>
+      <data key="v_n_words">200</data>
+      <data key="v_internallinks">495</data>
+      <data key="v_delta">1.415</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">5;goal;humboldt;often</data>
+      <data key="v_id">5;goal;humboldt;often</data>
+      <data key="v_n_words">43</data>
+      <data key="v_internallinks">42</data>
+      <data key="v_delta">0.674418604651163</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">6;will;center;reason</data>
+      <data key="v_id">6;will;center;reason</data>
+      <data key="v_n_words">74</data>
+      <data key="v_internallinks">83</data>
+      <data key="v_delta">1.04054054054054</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">7;free;country;insight</data>
+      <data key="v_id">7;free;country;insight</data>
+      <data key="v_n_words">83</data>
+      <data key="v_internallinks">94</data>
+      <data key="v_delta">1.06024096385542</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">8;competence;science;scientific</data>
+      <data key="v_id">8;competence;science;scientific</data>
+      <data key="v_n_words">166</data>
+      <data key="v_internallinks">578</data>
+      <data key="v_delta">0.596385542168675</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">9;others;emphasise;take</data>
+      <data key="v_id">9;others;emphasise;take</data>
+      <data key="v_n_words">81</data>
+      <data key="v_internallinks">102</data>
+      <data key="v_delta">1.02469135802469</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">10;self;autonomy;formation</data>
+      <data key="v_id">10;self;autonomy;formation</data>
+      <data key="v_n_words">26</data>
+      <data key="v_internallinks">32</data>
+      <data key="v_delta">0.923076923076923</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">11;development;project;research</data>
+      <data key="v_id">11;development;project;research</data>
+      <data key="v_n_words">45</data>
+      <data key="v_internallinks">49</data>
+      <data key="v_delta">0.644444444444444</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">12;view;acquire;criticism</data>
+      <data key="v_id">12;view;acquire;criticism</data>
+      <data key="v_n_words">22</data>
+      <data key="v_internallinks">21</data>
+      <data key="v_delta">0.636363636363636</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">13;identify;interesting;seek</data>
+      <data key="v_id">13;identify;interesting;seek</data>
+      <data key="v_n_words">12</data>
+      <data key="v_internallinks">11</data>
+      <data key="v_delta">0.833333333333333</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">14;largely;independent;disappeared</data>
+      <data key="v_id">14;largely;independent;disappeared</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+      <data key="v_delta">2</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">15;pedagogical;ellen;completely</data>
+      <data key="v_id">15;pedagogical;ellen;completely</data>
+      <data key="v_n_words">3</data>
+      <data key="v_internallinks">2</data>
+      <data key="v_delta">1</data>
+    </node>
+    <edge source="n0" target="n7">
+      <data key="e_weight">14</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">99</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_weight">108</data>
+    </edge>
+    <edge source="n3" target="n7">
+      <data key="e_weight">131</data>
+    </edge>
+    <edge source="n4" target="n7">
+      <data key="e_weight">14</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">25</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">28</data>
+    </edge>
+    <edge source="n7" target="n3">
+      <data key="e_weight">129</data>
+    </edge>
+    <edge source="n8" target="n7">
+      <data key="e_weight">30</data>
+    </edge>
+    <edge source="n9" target="n7">
+      <data key="e_weight">15</data>
+    </edge>
+    <edge source="n10" target="n3">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n10" target="n7">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n11" target="n7">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n12" target="n7">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n13" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n13" target="n3">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n13" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n14" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n14" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

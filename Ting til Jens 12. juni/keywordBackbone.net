@@ -1,0 +1,974 @@
+*Vertices 320
+1 "possesment"
+2 "applied to situation"
+3 "specific/particular domain"
+4 "knowledge & skills"
+5 "affective construct (interest and motivation)"
+6 "solve tasks/problems"
+7 "individual possesment"
+8 "specific domain"
+9 "affective construct"
+10 "individual problemsolving"
+11 "specific applications"
+12 "cognitive constructs"
+13 "knowledge"
+14 "affective contructs"
+15 "interest"
+16 "being competent"
+17 "posessment"
+18 "prerequisites"
+19 "skills"
+20 "motivation"
+21 "domain"
+22 "individual"
+23 "specific"
+24 "situation"
+25 "problem solving"
+26 "affective constructs"
+27 "skill"
+28 "perform task"
+29 "ability"
+30 "application of knowledge and skills"
+31 "performing a task"
+32 "knowledge and skill"
+33 "perform a task"
+34 "outcome"
+35 "task"
+36 "performance"
+37 "values"
+38 "attitudes"
+39 "self-regulation"
+40 "to meet challenges and demands"
+41 "creativity and innovation"
+42 "competence as process"
+43 "adjustment to different domains"
+44 "knowledge, skills, attitudes, values, selfregulation"
+45 "ability to cope with challenges"
+46 "affective"
+47 "cognitive"
+48 "creativity"
+49 "solve problems"
+50 "development"
+51 "value"
+52 "ability to cope"
+53 "solve task"
+54 "effective"
+55 "adjust oneself"
+56 "relevant situations"
+57 "social"
+58 "attitutude"
+59 "self regulation"
+60 "specifc"
+61 "problemsolving"
+62 "modelling"
+63 "argumentation"
+64 "investigation"
+65 "cope with challenges"
+66 "cope"
+67 "challenges and demands"
+68 "individual or social"
+69 "scientific competence"
+70 "ability and commitment to act"
+71 "alone and togerther with others"
+72 "scientific curiosity"
+73 "strategies and metaknowledge to create meaning"
+74 "autonomy and codetermination"
+75 "creation of meaning"
+76 "advantage of scientific curiosity"
+77 "exertion of codetermination"
+78 "life contexts"
+79 "actively act"
+80 "together with someone"
+81 "curiosity"
+82 "autonomy"
+83 "commitment"
+84 "together with others"
+85 "knowledge skills"
+86 "strategies"
+87 "meta-knowledge"
+88 "create meaning"
+89 "codetermination"
+90 "life context"
+91 "relevant"
+92 "alone"
+93 "with others"
+94 "curiousity"
+95 "metaknowledge"
+96 "meaning"
+97 "context"
+98 "able to act"
+99 "create meaning exert codetermination"
+100 "content"
+101 "(german) handlungsaspekt"
+102 "(german) themenbereiche"
+103 "french (aspects de comp‚tences)"
+104 "french (somaines th‚matiques)"
+105 "skill and content"
+106 "handlungsaspekt"
+107 "aspects de comp‚tences"
+108 "basic knowledge"
+109 "capacities"
+110 "appetite for truth"
+111 "respect (of oneself and others)"
+112 "civic competence"
+113 "relevant knowledge"
+114 "open to others"
+115 "search for truth"
+116 "application of knowledge in diverse situations"
+117 "curiosity and creativity"
+118 "real-life"
+119 "life"
+120 "society"
+121 "capacity"
+122 "diverse situations"
+123 "lifelong"
+124 "appetite"
+125 "respect of oneself and others"
+126 "respect"
+127 "context-specific"
+128 "context specific"
+129 "complex ability constructs"
+130 "link to real life"
+131 "complex contructs"
+132 "real life"
+133 "ability constructs context specific"
+134 "psychosocial prerequisites"
+135 "cognitive aspects"
+136 "non-cogntive aspects"
+137 "meeting complex demands"
+138 "particular context"
+139 "complex demands or problems"
+140 "success"
+141 "successfully meet demands"
+142 "non-cognitive"
+143 "meet demands"
+144 "complex demands"
+145 "cognitive and non-cognitive"
+146 "qualification"
+147 "literacy"
+148 "qulifications"
+149 "learn"
+150 "know"
+151 "do"
+152 "workplace"
+153 "social situations"
+154 "competence"
+155 "be able to do"
+156 "conversion of general to specific"
+157 "domain specific"
+158 "general competence"
+159 "technology competence"
+160 "mathematical competence"
+161 "domain-specific"
+162 "general"
+163 "covertible"
+164 "learning"
+165 "dispositions"
+166 "context specific dispositions"
+167 "competence vs cognitive abilities"
+168 "acquired through learning"
+169 "acievement"
+170 "learned"
+171 "explain phenomena"
+172 "evaluate enquiry"
+173 "interpret data"
+174 "reflective"
+175 "explain"
+176 "evaluate"
+177 "interpret"
+178 "scientific literacy"
+179 "engage with issues"
+180 "reflective citizen"
+181 "willing to engage"
+182 "reasoned discourse"
+183 "design"
+184 "engage"
+185 "inquiry"
+186 "tecnological competence"
+187 "understand"
+188 "assess"
+189 "use & manage"
+190 "comfortable - not scared"
+191 "understaning"
+192 "how tec reflects the world and vice versa"
+193 "technological literacy"
+194 "use"
+195 "manage"
+196 "assesss"
+197 "sophisticated"
+198 "evolve over time"
+199 "comfortable with technology"
+200 "objetive about technology"
+201 "objective"
+202 "not scared"
+203 "autonom"
+204 "problem"
+205 "together with some one"
+206 "innovation"
+207 "prepared"
+208 "participate"
+209 "think"
+210 "intervene"
+211 "creative"
+212 "improve quality of life"
+213 "autonomous"
+214 "proplem solving"
+215 "member og team"
+216 "discriminating"
+217 "informed"
+218 "team"
+219 "participation"
+220 "tomorrow's"
+221 "understandings"
+222 "process"
+223 "not only a process"
+224 "evidenced in process"
+225 "drawing on knowledge and skills"
+226 "processes"
+227 "tool for problem solving"
+228 "non-specific context"
+229 "tool"
+230 "problems"
+231 "methamatical literacy"
+232 "promblem solving"
+233 "nonmathematical"
+234 "broader than domain"
+235 "mastering"
+236 "capacity to problem solve"
+237 "mastery"
+238 "non-specific"
+239 "specific contexts"
+240 "master"
+241 "doamin"
+242 "succesful deployment of capabilities"
+243 "capabilities"
+244 "specific context"
+245 "successful deployment"
+246 "engagement"
+247 "language"
+248 "tools"
+249 "mathematical problems"
+250 "ability to generate solutions"
+251 "drawing on disciplinary knowledge"
+252 "analysis of field of practice"
+253 "analysis and reflection"
+254 "implementation of ideas"
+255 "communication of ideas"
+256 "solutions"
+257 "implementation"
+258 "communication"
+259 "innovation competence"
+260 "sub-competences"
+261 "collaboration"
+262 "generate solutions"
+263 "disciplinary knowledge"
+264 "analysis"
+265 "field og practice"
+266 "analyse"
+267 "reflect"
+268 "value-creation"
+269 "realisability of ideas"
+270 "ideas"
+271 "together"
+272 "create value"
+273 "realise ideas"
+274 "communicate"
+275 "ability to act"
+276 "action"
+277 "bildung"
+278 "expectations"
+279 "learning processes"
+280 "act in undecidability"
+281 "act in indeterminancy"
+282 "act in plurality"
+283 "learning process"
+284 "act"
+285 "undecidability, indeterminacy, uncertainty and plurality"
+286 "ability and will to act"
+287 "use of scientific curiosity"
+288 "acting with others"
+289 "acting alone"
+290 "creation of autonomy"
+291 "will"
+292 "knowledga and skill"
+293 "meta-cognition"
+294 "willpower"
+295 "in groups"
+296 "decision making"
+297 "specific situations"
+298 "woth others"
+299 "ability and will"
+300 "to act"
+301 "negotiation of meaning"
+302 "development of identity"
+303 "participation i relevant decision making"
+304 "specific-domain"
+305 "identity"
+306 "using curiosity"
+307 "apply in physics"
+308 "negotiate meaning"
+309 "develop distinct identity"
+310 "field"
+311 "decisions"
+312 "cognitive dispositions"
+313 "acquired"
+314 "needed"
+315 "succefully cope"
+316 "certain situations"
+317 "specific domains"
+318 "create"
+319 "networks"
+320 "words"
+*Edges
+1 2 4
+1 4 4
+2 4 16
+2 5 4
+2 7 12
+2 9 12
+2 10 8
+2 11 8
+2 12 12
+2 14 8
+2 15 12
+2 16 8
+2 17 8
+2 18 8
+2 20 12
+2 26 4
+3 21 7
+4 5 4
+4 7 12
+4 8 14
+4 9 12
+4 10 8
+4 11 8
+4 12 12
+4 13 34
+4 14 8
+4 15 12
+4 16 8
+4 17 8
+4 18 8
+4 20 12
+4 26 4
+6 22 9
+13 19 65
+13 21 15
+13 24 13
+13 28 12
+13 30 4
+13 31 4
+13 32 11
+13 33 12
+13 34 12
+13 35 7
+13 36 4
+13 37 3
+13 38 25
+13 39 9
+13 42 3
+13 43 3
+13 44 3
+13 45 3
+13 48 22
+13 49 3
+13 50 14
+13 51 9
+13 52 6
+13 53 6
+13 54 6
+13 55 6
+13 56 12
+13 57 9
+13 58 3
+13 59 3
+13 60 3
+13 62 3
+13 63 3
+13 64 3
+13 65 3
+13 66 3
+13 67 3
+13 68 3
+13 108 8
+13 109 8
+13 110 4
+13 111 4
+13 112 4
+13 113 4
+13 114 12
+13 115 16
+13 116 4
+13 117 4
+13 119 8
+13 120 16
+13 122 8
+13 123 8
+13 124 8
+13 125 8
+13 126 4
+13 221 12
+13 222 8
+13 223 4
+13 224 4
+13 225 4
+13 226 4
+18 47 6
+19 22 26
+19 27 21
+19 29 51
+19 221 12
+19 222 8
+19 223 4
+19 224 4
+19 225 4
+19 226 4
+19 258 12
+19 286 4
+19 287 4
+19 288 4
+19 289 4
+19 290 4
+19 292 4
+19 295 8
+19 297 8
+19 299 4
+19 300 4
+21 23 6
+21 35 7
+21 37 3
+21 39 9
+21 42 3
+21 43 3
+21 44 3
+21 45 3
+21 49 3
+21 51 9
+21 52 6
+21 53 6
+21 54 6
+21 55 6
+21 57 9
+21 58 3
+21 59 3
+21 60 3
+21 62 3
+21 63 3
+21 64 3
+21 65 3
+21 66 3
+21 67 3
+21 68 3
+21 312 4
+21 313 4
+21 314 4
+21 315 4
+21 316 4
+21 317 4
+22 37 3
+22 39 9
+22 41 8
+22 42 3
+22 43 3
+22 44 3
+22 45 3
+22 49 3
+22 51 9
+22 52 6
+22 53 6
+22 54 6
+22 55 6
+22 57 9
+22 58 3
+22 59 3
+22 60 3
+22 61 6
+22 62 3
+22 63 3
+22 64 3
+22 65 3
+22 66 3
+22 67 3
+22 68 3
+22 203 3
+22 204 3
+22 206 9
+22 207 6
+22 209 6
+22 210 6
+22 211 9
+22 212 6
+22 213 6
+22 214 6
+22 215 6
+22 216 6
+22 217 6
+22 218 3
+22 219 3
+22 220 3
+23 121 6
+23 160 6
+23 312 4
+23 313 4
+23 314 4
+23 315 4
+23 316 4
+23 317 4
+25 160 12
+27 100 15
+27 146 12
+27 147 16
+27 148 8
+27 149 12
+27 150 8
+27 151 12
+27 152 8
+27 153 8
+27 154 4
+27 155 4
+29 47 6
+29 69 12
+29 71 14
+29 80 6
+29 81 45
+29 82 28
+29 92 30
+29 97 16
+29 118 10
+29 119 8
+29 128 16
+29 129 4
+29 130 4
+29 131 8
+29 132 4
+29 133 4
+29 174 6
+29 177 12
+29 187 12
+29 258 12
+29 275 16
+29 276 11
+29 284 19
+29 286 4
+29 287 4
+29 288 4
+29 289 4
+29 290 4
+29 292 4
+29 295 8
+29 297 8
+29 299 4
+29 300 4
+35 312 4
+35 313 4
+35 314 4
+35 315 4
+35 316 4
+35 317 4
+37 38 3
+37 39 3
+37 51 3
+37 57 3
+38 39 9
+38 42 3
+38 43 3
+38 44 3
+38 45 3
+38 48 22
+38 49 3
+38 51 9
+38 52 6
+38 53 6
+38 54 6
+38 55 6
+38 57 9
+38 58 3
+38 59 3
+38 60 3
+38 62 3
+38 63 3
+38 64 3
+38 65 3
+38 66 3
+38 67 3
+38 68 3
+38 108 8
+38 109 8
+38 110 4
+38 111 4
+38 112 4
+38 113 4
+38 114 12
+38 115 16
+38 116 4
+38 117 4
+38 119 8
+38 122 8
+38 123 8
+38 124 8
+38 125 8
+38 126 4
+39 42 3
+39 43 3
+39 44 3
+39 45 3
+39 49 3
+39 51 9
+39 52 6
+39 53 6
+39 54 6
+39 55 6
+39 57 9
+39 58 3
+39 59 3
+39 60 3
+39 62 3
+39 63 3
+39 64 3
+39 65 3
+39 66 3
+39 67 3
+39 68 3
+40 47 4
+42 51 3
+42 57 3
+43 51 3
+43 57 3
+44 51 3
+44 57 3
+45 51 3
+45 57 3
+46 47 4
+47 97 6
+47 128 6
+47 134 6
+47 135 3
+47 136 3
+47 137 3
+47 138 3
+47 139 3
+47 140 3
+47 141 6
+47 142 6
+47 143 3
+47 144 3
+47 145 3
+48 108 8
+48 109 8
+48 110 4
+48 111 4
+48 112 4
+48 113 4
+48 114 12
+48 115 16
+48 116 4
+48 117 4
+48 119 8
+48 122 8
+48 123 8
+48 124 8
+48 125 8
+48 126 4
+49 51 3
+49 57 3
+49 121 3
+49 160 3
+51 52 6
+51 53 6
+51 54 6
+51 55 6
+51 57 9
+51 58 3
+51 59 3
+51 60 3
+51 62 3
+51 63 3
+51 64 3
+51 65 3
+51 66 3
+51 67 3
+51 68 3
+52 57 6
+53 57 6
+54 57 6
+55 57 6
+57 58 3
+57 59 3
+57 60 3
+57 62 3
+57 63 3
+57 64 3
+57 65 3
+57 66 3
+57 67 3
+57 68 3
+69 82 12
+69 156 3
+69 157 4
+69 158 6
+69 159 6
+69 161 6
+69 163 3
+70 82 12
+72 82 8
+73 81 12
+74 82 9
+75 82 8
+76 82 4
+77 82 4
+78 82 8
+79 81 6
+81 82 28
+81 86 36
+81 87 37
+81 91 20
+81 92 30
+81 93 21
+81 94 6
+81 96 12
+81 205 5
+81 208 17
+81 286 4
+81 287 4
+81 288 4
+81 289 4
+81 290 4
+81 291 18
+81 292 4
+81 293 9
+81 294 18
+81 295 8
+81 296 27
+81 297 8
+81 298 9
+81 299 4
+81 300 4
+81 301 5
+81 302 5
+81 303 5
+81 304 5
+81 305 20
+81 306 10
+81 307 10
+81 308 10
+81 309 10
+81 310 10
+81 311 5
+82 83 12
+82 84 8
+82 85 8
+82 88 16
+82 89 8
+82 90 8
+82 95 4
+82 98 4
+82 99 4
+82 286 4
+82 287 4
+82 288 4
+82 289 4
+82 290 4
+82 292 4
+82 295 8
+82 297 8
+82 299 4
+82 300 4
+87 286 4
+87 287 4
+87 288 4
+87 289 4
+87 290 4
+87 292 4
+87 295 8
+87 297 8
+87 299 4
+87 300 4
+100 101 5
+100 102 5
+100 103 5
+100 104 5
+100 105 5
+100 106 5
+100 107 5
+108 115 8
+109 115 8
+110 115 4
+111 115 4
+112 115 4
+113 115 4
+114 115 12
+115 116 4
+115 117 4
+115 119 8
+115 122 8
+115 123 8
+115 124 8
+115 125 8
+115 126 4
+121 160 9
+121 235 3
+121 236 3
+121 237 3
+121 238 3
+121 240 6
+121 241 6
+123 275 8
+127 165 12
+127 312 4
+127 313 4
+127 314 4
+127 315 4
+127 316 4
+127 317 4
+146 147 12
+147 148 8
+147 149 12
+147 150 8
+147 151 12
+147 152 8
+147 153 8
+147 154 4
+147 155 4
+157 177 4
+160 162 8
+160 230 7
+160 233 8
+160 234 8
+160 235 3
+160 236 3
+160 237 3
+160 238 3
+160 240 6
+160 241 6
+160 243 12
+162 275 8
+164 165 4
+165 166 4
+165 167 4
+165 168 12
+165 169 8
+165 170 4
+171 177 8
+172 177 4
+173 177 4
+175 177 12
+176 177 12
+177 178 12
+177 179 12
+177 180 8
+177 181 8
+177 182 8
+177 183 8
+177 184 4
+177 185 4
+186 187 4
+187 188 8
+187 189 4
+187 190 4
+187 191 4
+187 192 4
+187 193 12
+187 194 12
+187 195 12
+187 196 8
+187 197 8
+187 198 8
+187 199 8
+187 200 8
+187 201 4
+187 202 4
+203 206 3
+203 211 3
+204 206 3
+204 211 3
+206 207 6
+206 209 6
+206 210 6
+206 211 9
+206 212 6
+206 213 6
+206 214 6
+206 215 6
+206 216 6
+206 217 6
+206 218 3
+206 219 3
+206 220 3
+207 211 6
+209 211 6
+210 211 6
+211 212 6
+211 213 6
+211 214 6
+211 215 6
+211 216 6
+211 217 6
+211 218 3
+211 219 3
+211 220 3
+227 229 4
+228 229 4
+229 231 8
+229 232 8
+229 233 8
+229 234 8
+233 234 8
+239 258 4
+242 243 4
+243 244 4
+243 245 8
+243 246 12
+243 247 12
+243 248 12
+243 249 4
+250 258 4
+251 258 4
+252 258 4
+253 258 4
+254 258 4
+255 258 4
+256 258 8
+257 258 8
+258 259 8
+258 260 8
+258 261 8
+258 262 12
+258 263 8
+258 264 12
+258 265 8
+258 266 8
+258 267 12
+258 268 8
+258 269 8
+258 270 8
+258 271 4
+258 272 4
+258 273 4
+258 274 4
+275 277 8
+275 278 8
+275 279 8
+275 280 8
+275 281 8
+275 282 8
+275 283 4
+275 285 4
+312 313 4
+312 314 4
+312 315 4
+312 316 4
+312 317 4
+313 314 4
+313 315 4
+313 316 4
+313 317 4
+314 315 4
+314 316 4
+314 317 4
+315 316 4
+315 317 4
+316 317 4
+318 319 1
+318 320 1
+319 320 1
