@@ -198,7 +198,7 @@ for i in {1..1000};do ./Infomap --clu --ftree -d networks/networksForInfomap/col
 
 ## Find most frequent solution
 ```{r find-freq, echo=TRUE}
-n<-10
+n<-100
 #######COLLECTED NETWORK#######
 solM<-matrix(0,nrow=vcount(collectedNetworkBB),ncol=n)
 for (i in 1:n){
@@ -281,7 +281,7 @@ which.max(noB)
 ## Select solution
 From the analysis above, we find the 
 
-```{r fast-greedy, echo=TRUE}
+```{r select-solution, echo=TRUE}
 
 
 memBB<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/collected/sol",which.max(no),".clu"),skip=8,sep=" ")
@@ -293,7 +293,7 @@ memBB <- memBB[order(memBB$node),]
 memCBB<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/competence/sol",which.max(noC),".clu"),skip=8,sep=" ")
 names(memCBB)<-c("node","membership","flow","NA")
 memCBB<-memCBB[,-4]
-memCBB <- memBB[order(memCBB$node),]
+memCBB <- memCBB[order(memCBB$node),]
 
 #find a membership solution for competence networks
 memBBB<-read.csv(paste0("~/Github/NAFA2/infomapSolutions/bildung/sol",which.max(noB),".clu"),skip=8,sep=" ")
@@ -407,6 +407,8 @@ write.graph(collectedNetworkBB, paste0("networks/collectedNetworkBB", format(Sys
 write.graph(collectedMapBB, paste0("networks/collectedMapBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".net"),format="pajek")
 
 write.graph(collectedMapBB, paste0("networks/collectedMapBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
+
+write.graph(collectedMapBB,"networks/networksForInfomap/collectedMapBB.net",format="pajek")
 ```
 
 # Todo
