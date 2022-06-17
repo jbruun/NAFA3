@@ -321,6 +321,10 @@ collectedMapBBB<-backboneNetwork(collectedMapB,0.001,1)
 V(collectedMapBBB)$n_words<-V(collectedMapB)$n_words
 V(collectedMapBBB)$internallinks<-V(collectedMapB)$internallinks
 
+write.graph(collectedMapBB,"networks/networksForInfomap/collectedMapBB.net",format="pajek")
+write.graph(collectedMapBBB,"networks/networksForInfomap/collectedMapBBB.net",format="pajek")
+write.graph(collectedMapCBB,"networks/networksForInfomap/collectedMapCBB.net",format="pajek")
+
 #Create module networks for collected network
 modulesCollected<-graphModules(collectedNetwork,memBB$membership) 
 for(i in 1:length(unique(memBB$membership))){
@@ -342,7 +346,7 @@ write.graph(modulesCollectedC[[i]], paste0("networks/moduleNetworks/competence/M
 ```
 ## Finding out how much each text loads on modules in map
 ```{r loads, echo=FALSE}
-#Find out how much each separate text network loads on each module
+#Find out how much bildung texts and competence texts load on each module
 networkTexts2<-list(collectedBildungNetwork,collectedCompetenceNetwork)
 loadsTextsOnCollectedNetwork<-list()
 for(i in 1:2){
