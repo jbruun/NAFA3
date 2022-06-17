@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">general</data>
+      <data key="v_id">general</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">bildung</data>
+      <data key="v_id">bildung</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">project</data>
+      <data key="v_id">project</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">klafki</data>
+      <data key="v_id">klafki</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">become</data>
+      <data key="v_id">become</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">socialisation</data>
+      <data key="v_id">socialisation</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">individual</data>
+      <data key="v_id">individual</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">insisted</data>
+      <data key="v_id">insisted</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">believes</data>
+      <data key="v_id">believes</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">culture</data>
+      <data key="v_id">culture</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">working</data>
+      <data key="v_id">working</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">process</data>
+      <data key="v_id">process</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">classical</data>
+      <data key="v_id">classical</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">relevance</data>
+      <data key="v_id">relevance</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">institution</data>
+      <data key="v_id">institution</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">emancipation</data>
+      <data key="v_id">emancipation</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">subjectification</data>
+      <data key="v_id">subjectification</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">hermeneutic</data>
+      <data key="v_id">hermeneutic</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">term</data>
+      <data key="v_id">term</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">empower</data>
+      <data key="v_id">empower</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">members</data>
+      <data key="v_id">members</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">folk</data>
+      <data key="v_id">folk</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">class</data>
+      <data key="v_id">class</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n2" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n8">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n18">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n13">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n13">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n15">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n19">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n11">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n8" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n9" target="n14">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n10" target="n22">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n11" target="n16">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n12" target="n1">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n13" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n13" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n14" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n15" target="n16">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n16" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n17" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n18" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n18" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n19" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n19" target="n20">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n20" target="n10">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n21" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n22" target="n21">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

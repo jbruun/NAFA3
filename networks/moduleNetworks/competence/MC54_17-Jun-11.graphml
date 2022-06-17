@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">article</data>
+      <data key="v_id">article</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">ministry</data>
+      <data key="v_id">ministry</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">committees</data>
+      <data key="v_id">committees</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">web</data>
+      <data key="v_id">web</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">anthologys</data>
+      <data key="v_id">anthologys</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">write</data>
+      <data key="v_id">write</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">appointed</data>
+      <data key="v_id">appointed</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">institution</data>
+      <data key="v_id">institution</data>
+    </node>
+    <edge source="n0" target="n5">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n4" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

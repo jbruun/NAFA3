@@ -198,7 +198,7 @@ for i in {1..1000};do ./Infomap --clu --ftree -d networks/networksForInfomap/col
 
 ## Find most frequent solution
 ```{r find-freq, echo=TRUE}
-n<-10
+n<-100
 #######COLLECTED NETWORK#######
 solM<-matrix(0,nrow=vcount(collectedNetworkBB),ncol=n)
 for (i in 1:n){
