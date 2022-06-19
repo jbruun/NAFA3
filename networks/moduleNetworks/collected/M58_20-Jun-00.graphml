@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_PR" for="node" attr.name="PR" attr.type="double"/>
+  <key id="v_strength" for="node" attr.name="strength" attr.type="double"/>
+  <key id="v_degree" for="node" attr.name="degree" attr.type="double"/>
+  <key id="v_bildungWords" for="node" attr.name="bildungWords" attr.type="double"/>
+  <key id="v_competenceWords" for="node" attr.name="competenceWords" attr.type="double"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">overlap</data>
+      <data key="v_PR">0.000600326344120563</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">overlap</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">northern</data>
+      <data key="v_PR">0.000395194718660894</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">0</data>
+      <data key="v_id">northern</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">european</data>
+      <data key="v_PR">0.000971211227110823</data>
+      <data key="v_strength">6</data>
+      <data key="v_degree">6</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">european</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">significant</data>
+      <data key="v_PR">0.000505787746977698</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">significant</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">target</data>
+      <data key="v_PR">0.000944803403704605</data>
+      <data key="v_strength">7</data>
+      <data key="v_degree">7</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">target</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">contrary</data>
+      <data key="v_PR">0.000455910604738785</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">contrary</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">coordinate</data>
+      <data key="v_PR">0.00101768651618282</data>
+      <data key="v_strength">8</data>
+      <data key="v_degree">8</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">coordinate</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">incidentally</data>
+      <data key="v_PR">0.000241926274367707</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">incidentally</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n6">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n3">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

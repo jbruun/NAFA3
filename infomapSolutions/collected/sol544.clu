@@ -1,7 +1,7 @@
 # v2.1.0
 # ./Infomap --clu --ftree -d networks/networksForInfomap/collectedNetworkBB.net --out-name sol544 infomapSolutions/collected
-# started at 2022-06-20 00:07:13
-# completed in 0.0455627 s
+# started at 2022-06-20 00:19:05
+# completed in 0.0508236 s
 # partitioned into 2 levels with 117 top modules
 # codelength 6.77856 bits
 # relative codelength savings 19.4811%

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_PR" for="node" attr.name="PR" attr.type="double"/>
+  <key id="v_strength" for="node" attr.name="strength" attr.type="double"/>
+  <key id="v_degree" for="node" attr.name="degree" attr.type="double"/>
+  <key id="v_bildungWords" for="node" attr.name="bildungWords" attr.type="double"/>
+  <key id="v_competenceWords" for="node" attr.name="competenceWords" attr.type="double"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">amount</data>
+      <data key="v_PR">0.00100508744296704</data>
+      <data key="v_strength">6</data>
+      <data key="v_degree">6</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">amount</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">introduce</data>
+      <data key="v_PR">0.000772049863292983</data>
+      <data key="v_strength">6</data>
+      <data key="v_degree">6</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">introduce</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">ban</data>
+      <data key="v_PR">0.000579731380887344</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">4</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">ban</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">unnecessary</data>
+      <data key="v_PR">0.000386441859286243</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">unnecessary</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">interference</data>
+      <data key="v_PR">0.000468531602802961</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">interference</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">huge</data>
+      <data key="v_PR">0.000319365082170243</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">huge</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">timeconsuming</data>
+      <data key="v_PR">0.000342070502390972</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">timeconsuming</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">considerable</data>
+      <data key="v_PR">0.000358803483676</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">0</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">considerable</data>
+    </node>
+    <edge source="n1" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n5" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n6" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n7" target="n0">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>
