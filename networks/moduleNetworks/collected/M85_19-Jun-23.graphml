@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_PR" for="node" attr.name="PR" attr.type="double"/>
+  <key id="v_strength" for="node" attr.name="strength" attr.type="double"/>
+  <key id="v_degree" for="node" attr.name="degree" attr.type="double"/>
+  <key id="v_bildungWords" for="node" attr.name="bildungWords" attr.type="double"/>
+  <key id="v_competenceWords" for="node" attr.name="competenceWords" attr.type="double"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">half</data>
+      <data key="v_PR">0.000315465303133563</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">0</data>
+      <data key="v_id">half</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">century</data>
+      <data key="v_PR">0.00122033256063218</data>
+      <data key="v_strength">8</data>
+      <data key="v_degree">7</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">century</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">gave</data>
+      <data key="v_PR">0.000399246042269237</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">0</data>
+      <data key="v_id">gave</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">twentyfirst</data>
+      <data key="v_PR">0.000549471213826375</data>
+      <data key="v_strength">4</data>
+      <data key="v_degree">3</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">1</data>
+      <data key="v_id">twentyfirst</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">read</data>
+      <data key="v_PR">0.000399246042268935</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">0</data>
+      <data key="v_id">read</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">nineteenth</data>
+      <data key="v_PR">0.000406130762448623</data>
+      <data key="v_strength">2</data>
+      <data key="v_degree">2</data>
+      <data key="v_bildungWords">1</data>
+      <data key="v_competenceWords">0</data>
+      <data key="v_id">nineteenth</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n3" target="n1">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n5" target="n1">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

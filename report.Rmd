@@ -72,9 +72,10 @@ wordstoremove<-c(stopwords("english"),"can","also","although","may","maybe","mor
                  "von","walløe","weinert","weniger","willbergh","wolfgang","wwwestablishfeu","wwwmascilproject","zembylas",
                  "TRUE","c","compoetences","d","e","eg","fd","handlungsaspekt","ia","ie","knowledge”","koeppen","p","aftenblad",
                  "nyt","b","bengtsen","complete","completely","done","famous", "every", "far","following","box","found","fourth",
-                 "france", "highly","hitherto","important","importance","mentions","might","much","must","namely","necessary","next",
-                 "often","one","ones","put","several","similar","since","socalled","summary","three", "two", "typical","us","usually","view","virtue","waddington",
-                 "well","whereas","whether","whose","within")
+                 "france", "highly","hitherto","important","importance","mentions","might","much","must","namely","necessary",
+                 "next", "often","one","ones","put","several","similar","since","socalled","summary","three", "two", 
+                 "typical","us","usually","view","virtue","waddington",
+                 "well","whereas","whether","whose","within","different")
 
 pptexts<-tm_map(pptexts,stripWhitespace)
 #Here, we call a script, which will do the substitutions and reductions we want

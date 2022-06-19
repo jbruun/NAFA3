@@ -20,7 +20,7 @@
 19 "19;relation;establish;wellestablished"
 20 "20;school;natural;high"
 21 "21;idea;claims;connect"
-22 "22;others;guidance;translate"
+22 "22;others;translate;guidance"
 23 "23;reason;division;threefold"
 24 "24;use;sense;description"
 25 "25;moral;ideal;cognitive"
@@ -36,35 +36,35 @@
 35 "35;value;norms;fundamental"
 36 "36;century;first;scandinavia"
 37 "37;understand;always;everything"
-38 "38;learner;help;shape"
+38 "38;learner;help;american"
 39 "39;emphasise;sometimes;traditional"
 40 "40;change;challenge;lifelong"
 41 "41;personality;include;formed-forming"
 42 "42;suggest;opportunity;basic"
 43 "43;contemporary;structure;power"
 44 "44;insight;experience;coresponsible"
-45 "45;policy;european;northern"
-46 "46;center;life;points"
+45 "45;policy;decade;european"
+46 "46;center;life;go"
 47 "47;contrast;write;eachother"
 48 "48;made;authority;unworthy"
-49 "49;development;finally;full"
+49 "49;development;economy;finally"
 50 "50;history;simultaneous;conveyed"
 51 "51;acquire;skill;legitimacy"
 52 "52;like;justification;just"
 53 "53;philosophical;metareality;bauer"
-54 "54;approach;still;benefit"
+54 "54;approach;class;still"
 55 "55;definition;weakness;strength"
 56 "56;theory;formal;moment"
-57 "57;instrumental;rather;manner"
+57 "57;instrumental;rather;kinds"
 58 "58;main;aim;longtime"
-59 "59;associated;least;country"
+59 "59;associated;last;least"
 60 "60;goal;many;justice"
-61 "61;essential;informed;economy"
+61 "61;essential;informed;success"
 62 "62;assessment;sociology;psychology"
 63 "63;largely;addition;especially"
 64 "64;theorist;representation;various"
 65 "65;number;together;brings"
-66 "66;decade;last;tension"
+66 "66;modern;tension;nineteenth"
 67 "67;ensure;academic;ultimately"
 68 "68;position;prominence;occupy"
 69 "69;overcome;identity;contradiction"
@@ -80,12 +80,14 @@
 *Arcs
 1 2 4
 2 1 5
-3 1 6
+3 1 7
 4 1 3
 4 8 3
 4 11 3
 5 4 3
-6 1 3
+6 1 2
+6 20 2
+6 66 2
 7 5 3
 8 1 4
 9 1 3
@@ -100,8 +102,10 @@
 17 5 2
 18 1 2
 18 3 2
+18 38 2
 19 2 2
 20 1 3
+20 5 3
 21 1 5
 22 1 1
 22 2 1
@@ -148,9 +152,9 @@
 39 5 1
 39 6 1
 39 10 1
+39 15 1
 39 21 1
 39 24 1
-39 26 1
 39 28 1
 39 38 1
 40 1 2
@@ -160,11 +164,13 @@
 43 1 3
 44 2 2
 45 1 2
+45 61 2
+46 1 1
 46 3 1
 46 5 1
 46 8 1
-46 13 1
 46 17 1
+46 20 1
 46 42 1
 46 47 1
 47 4 3
@@ -175,6 +181,8 @@
 49 6 1
 49 9 1
 49 18 1
+49 24 1
+49 61 1
 50 1 2
 51 2 1
 51 3 1
@@ -183,13 +191,13 @@
 51 42 1
 52 1 3
 53 3 2
-54 1 2
-54 11 2
+54 1 3
 55 1 2
 56 1 3
 57 2 1
+57 14 1
 57 22 1
-57 45 1
+57 26 1
 58 1 1
 58 3 1
 58 20 1
@@ -200,22 +208,24 @@
 59 16 1
 59 21 1
 59 31 1
+59 45 1
 60 1 2
-61 1 1
-61 18 1
+61 1 2
 62 28 1
-63 2 1
-63 4 1
-63 13 1
-63 34 1
+63 20 2
+63 34 2
 64 1 1
 64 2 1
 65 4 1
 66 1 1
 66 2 1
+66 6 1
+66 36 1
 66 39 1
-67 1 1
+66 59 1
 67 3 1
+67 36 1
+67 42 1
 67 48 1
 68 4 1
 68 29 1
