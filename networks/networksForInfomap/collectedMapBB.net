@@ -1,344 +1,374 @@
-*Vertices 109
-1 "1;competence;subject;science"
+*Vertices 117
+1 "1;competence;development;include"
 2 "2;knowledge;skill;strategies"
 3 "3;bildung;klafki;tradition"
 4 "4;develop;personality;learner"
-5 "5;education;system;general"
+5 "5;subject;science;area"
 6 "6;autonomy;meaning;create"
-7 "7;society;individual;cognitive"
-8 "8;able;know;learn"
-9 "9;relevance;context;life"
-10 "10;different;reality;example"
-11 "11;process;problem;theoretical"
-12 "12;plan;implementation;evaluate"
-13 "13;reflect;ideal;critical"
-14 "14;dimension;explicit;politics"
-15 "15;human;live;nature"
-16 "16;self;determination;free"
-17 "17;situation;social;concrete"
-18 "18;way;others;interesting"
-19 "19;citizen;responsible;action"
-20 "20;person;understanding;insight"
-21 "21;teaching;take;form"
-22 "22;definition;abilityto;engagement"
-23 "23;specific;demand;domain"
-24 "24;need;become;finally"
+7 "7;education;system;human"
+8 "8;society;individual;cognitive"
+9 "9;able;know;learn"
+10 "10;relevance;dimension;see"
+11 "11;citizen;responsible;action"
+12 "12;way;others;interesting"
+13 "13;teaching;evaluate;take"
+14 "14;situation;social;concrete"
+15 "15;specific;demand;domain"
+16 "16;change;carried;effect"
+17 "17;definition;abilityto;engagement"
+18 "18;school;suggest;basic"
+19 "19;context;life;prerequisite"
+20 "20;need;result;finally"
+21 "21;assessment;international;influence"
+22 "22;theoretical;understanding;broad"
+23 "23;describe;based;position"
+24 "24;future;present;live"
 25 "25;center;conveyed;awareness"
-26 "26;describe;based;position"
-27 "27;term;use;liberal"
-28 "28;democracy;dewey;play"
-29 "29;argue;literacy;combine"
-30 "30;change;carried;rapid"
-31 "31;common;objective;core"
-32 "32;school;high;continuous"
-33 "33;dichotomy;criticism;state"
-34 "34;see;however;authority"
-35 "35;model;representation;regard"
-36 "36;result;communicate;effect"
-37 "37;working;class;key"
-38 "38;exist;behaviour;observed"
-39 "39;economy;success;national"
-40 "40;culture;establish;hand"
-41 "41;future;present;consider"
-42 "42;description;humanity;constitute"
-43 "43;oecd;project;eu"
-44 "44;reason;will;division"
-45 "45;measure;test;ml"
-46 "46;elements;overlap;encourage"
-47 "47;value;respect;contemporary"
-48 "48;suggest;basic;contrast"
-49 "49;contribute;willingness;account"
-50 "50;employ;minds;without"
-51 "51;question;environmental;frontiers"
-52 "52;task;perform;curious"
-53 "53;rather;policy;instrumental"
-54 "54;certain;extent;realise"
-55 "55;drink;energy;stop"
-56 "56;find;effort;made"
-57 "57;european;coordinate;prioritization"
-58 "58;aspect;distinction;noncognitive"
-59 "59;goal;recent;call"
+26 "26;reflect;critical;range"
+27 "27;even;argue;humboldt"
+28 "28;term;use;liberal"
+29 "29;reality;insight;nature"
+30 "30;democracy;dewey;play"
+31 "31;reason;will;division"
+32 "32;model;representation;regard"
+33 "33;common;objective;core"
+34 "34;oecd;project;eu"
+35 "35;task;find;perform"
+36 "36;however;look;authority"
+37 "37;problem;key;quote"
+38 "38;contribute;person;willingness"
+39 "39;employ;minds;without"
+40 "40;discourse;call;enable"
+41 "41;ideal;emphasise;sometimes"
+42 "42;measure;test;ml"
+43 "43;dichotomy;behaviour;beyond"
+44 "44;question;environmental;frontiers"
+45 "45;rather;policy;instrumental"
+46 "46;modern;late;postmodern"
+47 "47;instead;discuss;assess"
+48 "48;investigation;aim;make"
+49 "49;economy;success;global"
+50 "50;aspect;distinction;noncognitive"
+51 "51;content;extensive;reflection"
+52 "52;value;respect;truth"
+53 "53;humanity;constitute;together"
+54 "54;goal;recent;justice"
+55 "55;performance;disposition;possess"
+56 "56;certain;extent;realise"
+57 "57;complex;orchestrate;mobilise"
+58 "58;european;coordinate;overlap"
+59 "59;class;survey;folk"
 60 "60;choice;health;sensible"
-61 "61;country;many;answer"
-62 "62;content;extensive;reflection"
-63 "63;look;framework;worth"
-64 "64;discourse;enable;fill"
-65 "65;modern;late;postmodern"
-66 "66;holistic;analytic;stance"
-67 "67;humboldt;today;least"
-68 "68;complex;orchestrate;mobilise"
-69 "69;structure;resources;external"
-70 "70;idea;associated;universities"
-71 "71;underlie;traits;draw"
-72 "72;participation;increase;compete"
-73 "73;justification;possess;difficult"
-74 "74;comparison;soil;plurality"
-75 "75;opportunity;new;interventions"
-76 "76;empirical;turn;argumentation"
-77 "77;international;line;largescale"
-78 "78;subjective;material;formal"
-79 "79;seriously;whole;decomposition"
-80 "80;amount;introduce;interference"
-81 "81;acquire;achievement;monitor"
-82 "82;place;affecting;event"
-83 "83;issue;coresponsible;thats"
-84 "84;ensure;academic;ultimately"
-85 "85;century;nineteenth;gave"
-86 "86;decade;last;conditions"
-87 "87;construction;axiom;assist"
-88 "88;write;article;anthologys"
-89 "89;early;exception;renewed"
-90 "90;effervescent;vitamin;boiling"
-91 "91;abandon;among;antisocializing"
-92 "92;especially;vision;largely"
-93 "93;word;fighting;container"
-94 "94;diverse;unique;harmonious"
-95 "95;longtime;language;overemphasising"
-96 "96;age;advanced;childhood"
-97 "97;either;interchangeably;imprecisely"
-98 "98;equipment;reaction;speed"
-99 "99;undetermined;denominator;fluid"
-100 "100;chemistry;physics;geography"
-101 "101;love;joy;art"
-102 "102;wellaccepted;concurrent;manifold"
-103 "103;weakness;strength;unambiguously"
-104 "104;latter;paideia;NA"
-105 "105;sort;preserve;NA"
-106 "106;publication;appeared;NA"
-107 "107;american;anglo;NA"
-108 "108;consist;rightly;NA"
-109 "109;rationale;furthermore;NA"
+61 "61;country;many;respective"
+62 "62;underlie;traits;potential"
+63 "63;drink;energy;stop"
+64 "64;structure;contemporary;deal"
+65 "65;become;crop;something"
+66 "66;description;continuous;low"
+67 "67;idea;connect;pragmatism"
+68 "68;holistic;analytic;represent"
+69 "69;elements;encourage;artificial"
+70 "70;example;career;management"
+71 "71;personal;national;tension"
+72 "72;opportunity;new;external"
+73 "73;combine;benefit;moving"
+74 "74;effort;made;unworthy"
+75 "75;literacy;linked;replacing"
+76 "76;subjective;material;formal"
+77 "77;comparison;soil;plurality"
+78 "78;observed;orientation;capture"
+79 "79;increase;market;compete"
+80 "80;empirical;turn;argumentation"
+81 "81;prioritization;equal;roughly"
+82 "82;seriously;whole;decomposition"
+83 "83;amount;introduce;interference"
+84 "84;century;scandinavia;nineteenth"
+85 "85;acquire;achievement;monitor"
+86 "86;issue;coresponsible;thats"
+87 "87;exist;reconfiguring;solidifying"
+88 "88;participation;active;substances"
+89 "89;ensure;academic;ultimately"
+90 "90;decade;last;conditions"
+91 "91;place;affecting;narrow"
+92 "92;construction;assist;axiom"
+93 "93;early;exception;renewed"
+94 "94;write;article;anthologys"
+95 "95;hand;qualification;balance"
+96 "96;effervescent;vitamin;boiling"
+97 "97;especially;vision;largely"
+98 "98;abandon;among;antisocializing"
+99 "99;line;recommendation;earlier"
+100 "100;word;fighting;container"
+101 "101;diverse;unique;harmonious"
+102 "102;longtime;language;overemphasising"
+103 "103;age;advanced;childhood"
+104 "104;back;throughout;antiquity"
+105 "105;either;interchangeably;imprecisely"
+106 "106;equipment;reaction;speed"
+107 "107;beings;extension;NA"
+108 "108;chemistry;physics;geography"
+109 "109;love;joy;art"
+110 "110;wellaccepted;concurrent;manifold"
+111 "111;matter;private;never"
+112 "112;weakness;strength;unambiguously"
+113 "113;publication;appeared;NA"
+114 "114;latter;paideia;NA"
+115 "115;sort;preserve;NA"
+116 "116;consist;rightly;NA"
+117 "117;rationale;furthermore;NA"
 *Arcs
-1 2 8
+1 4 11
 2 6 2
-3 5 5
-4 1 4
+3 7 6
+4 1 3
+4 8 3
+4 10 3
 5 1 5
-6 3 2
-6 5 2
-6 9 2
-6 16 2
-7 1 9
-8 1 4
-9 1 9
-10 1 7
-11 3 6
-12 1 5
-13 1 4
-13 2 4
-13 7 4
-14 3 5
-14 5 5
-15 1 5
-16 19 3
-17 1 6
-18 3 3
-19 1 6
-20 1 6
-21 1 8
-22 1 3
-23 1 7
-24 1 4
-24 2 4
+6 11 3
+7 1 4
+7 3 4
+8 1 8
+9 3 4
+10 3 7
+11 1 7
+12 1 3
+12 3 3
+13 2 7
+14 1 4
+15 1 4
+16 3 3
+17 1 2
+18 3 5
+19 1 4
+19 21 4
+20 1 4
+20 7 4
+21 4 7
+22 2 4
+22 5 4
+22 9 4
+23 1 5
+23 3 5
+24 1 2
+24 5 2
+24 8 2
 25 1 3
-26 1 5
-26 3 5
-27 2 2
-27 5 2
-28 3 2
-29 1 7
-30 5 2
-31 1 2
-31 10 2
-32 4 4
+26 1 4
+27 3 5
+28 2 2
+28 7 2
+29 5 3
+30 3 2
+31 3 3
+32 1 4
 33 1 2
-33 3 2
-34 1 6
-35 1 4
-36 1 4
-37 1 3
-38 4 2
-38 5 2
-39 1 2
-39 23 2
-40 1 5
-41 1 4
-42 1 3
-43 1 4
-44 3 2
-44 7 2
-45 10 4
-46 4 3
-47 1 4
-48 3 3
-49 3 2
-50 8 1
-50 18 1
-50 22 1
-50 49 1
+34 1 4
+35 1 2
+35 2 2
+35 6 2
+35 11 2
+36 1 5
+37 3 3
+38 3 3
+39 9 1
+39 12 1
+39 17 1
+39 23 1
+39 38 1
+39 68 1
+40 1 3
+41 26 2
+42 4 2
+42 32 2
+43 1 3
+44 1 2
+45 3 2
+46 3 2
+46 18 2
+47 3 2
+47 5 2
+47 7 2
+48 1 2
+48 22 2
+49 1 1
+49 4 1
+49 8 1
+49 11 1
+49 15 1
+49 16 1
+49 19 1
+49 57 1
+50 5 2
 51 1 3
-52 1 2
-52 2 2
-52 19 2
-53 3 2
-54 1 4
-55 4 1
-55 5 1
-55 11 1
-55 32 1
-55 36 1
-55 48 1
-55 50 1
-55 65 1
-56 1 1
-56 2 1
-56 4 1
-56 5 1
-56 12 1
-56 18 1
-56 21 1
-56 24 1
-56 34 1
-56 40 1
-56 52 1
-56 61 1
-57 1 2
-57 5 2
-57 12 2
-58 1 2
-59 1 2
-59 4 2
-59 5 2
-60 1 1
+52 6 3
+53 2 1
+53 3 1
+53 5 1
+53 6 1
+53 8 1
+53 13 1
+53 17 1
+53 18 1
+53 22 1
+53 25 1
+53 66 1
+54 7 3
+55 1 3
+56 1 3
+57 3 2
+57 7 2
+58 1 3
+59 20 2
 60 4 1
-60 37 1
-60 66 1
+60 5 1
+60 59 1
+60 68 1
 61 1 2
-61 51 2
-62 1 5
-63 2 2
-63 4 2
-63 21 2
-64 1 3
-65 3 1
-65 7 1
-65 26 1
-65 27 1
-65 32 1
-65 33 1
-65 34 1
-65 42 1
-65 49 1
-65 60 1
-65 85 1
-66 1 5
-67 3 3
-68 3 2
-68 5 2
-69 3 2
-69 7 2
-70 3 3
-71 2 1
-71 3 1
-71 7 1
-71 14 1
-71 20 1
-71 25 1
-71 29 1
-72 7 2
+62 3 1
+62 8 1
+62 10 1
+62 19 1
+62 25 1
+62 29 1
+62 49 1
+63 4 1
+63 16 1
+63 18 1
+63 37 1
+63 46 1
+64 3 2
+64 8 2
+65 6 2
+65 10 2
+65 20 2
+66 18 3
+67 3 4
+68 1 4
+69 4 2
+70 1 1
+70 4 1
+70 11 1
+70 14 1
+70 20 1
+70 22 1
+70 29 1
+70 36 1
+70 59 1
+70 64 1
+70 71 1
+70 79 1
+71 36 3
+72 33 2
 73 1 2
-73 3 2
-74 1 3
-75 31 2
-76 1 2
+74 2 1
+74 4 1
+74 5 1
+74 10 1
+74 13 1
+74 35 1
+75 1 3
+75 21 3
+76 3 3
 77 1 2
-77 4 2
-77 5 2
-78 3 2
-79 1 1
-79 3 1
-79 7 1
-79 8 1
-79 12 1
-79 15 1
-79 68 1
-80 1 1
-80 2 1
-80 13 1
-80 45 1
-80 55 1
-80 59 1
+78 7 2
+79 46 2
+80 1 2
 81 1 1
 81 2 1
-81 4 1
-81 8 1
-81 13 1
-81 31 1
-82 15 1
-82 23 1
-82 59 1
-83 41 2
-84 1 1
-84 7 1
-84 16 1
-84 18 1
-84 23 1
-85 3 1
-85 14 1
-85 27 1
-85 43 1
-86 1 1
-86 3 1
-86 8 1
-86 13 1
-86 15 1
-86 34 1
-86 74 1
-87 1 1
-87 5 1
-87 17 1
-87 53 1
-87 62 1
-88 3 2
-88 5 2
+81 7 1
+81 58 1
+82 1 2
+83 1 1
+83 2 1
+83 42 1
+83 54 1
+83 63 1
+83 71 1
+84 3 1
+84 10 1
+84 28 1
+84 34 1
+84 36 1
+84 59 1
+85 1 1
+85 2 1
+85 4 1
+85 9 1
+85 33 1
+85 71 1
+86 24 2
+87 2 1
+87 3 1
+87 43 1
+87 47 1
+87 52 1
+87 86 1
+88 8 2
 89 1 1
-89 18 1
-90 45 1
-90 55 1
-91 13 1
-91 18 1
-92 1 1
+89 6 1
+89 8 1
+89 12 1
+89 15 1
+90 3 1
+90 5 1
+90 7 1
+90 9 1
+90 36 1
+90 71 1
+90 77 1
+91 7 1
+91 54 1
 92 5 1
-92 15 1
-92 42 1
+92 7 1
+92 14 1
 92 45 1
-92 67 1
-92 77 1
-93 5 1
-93 6 1
-94 3 1
-94 17 1
-94 18 1
+92 51 1
+93 1 2
+94 3 2
+94 7 2
 95 1 2
-96 3 1
-97 2 1
+96 42 1
+96 63 1
+97 1 1
 97 7 1
-97 10 1
-98 4 1
-99 10 1
-100 5 1
-100 13 1
+97 21 1
+97 24 1
+97 29 1
+97 42 1
+97 66 1
+98 12 1
+98 41 1
+99 3 1
+99 15 1
+99 21 1
+99 34 1
+100 6 1
+100 7 1
 101 3 1
-102 22 1
+101 12 1
+101 14 1
+102 5 2
 103 3 1
-103 4 1
-103 22 1
-104 3 1
-105 3 1
-106 1 1
-107 3 1
-108 6 1
-108 14 1
-108 18 1
-109 1 1
+104 5 2
+105 2 1
+105 8 1
+105 55 1
+106 4 1
+107 5 1
+107 9 1
+108 7 1
+108 41 1
 109 3 1
+110 17 1
+111 18 1
+112 3 1
+112 4 1
+112 17 1
+113 1 1
+114 3 1
+115 3 1
+116 6 1
+116 10 1
+116 12 1
+117 3 1
+117 5 1
