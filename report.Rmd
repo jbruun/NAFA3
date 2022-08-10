@@ -304,7 +304,7 @@ memBBB <- memBBB[order(memBBB$node),]
 
 ## Making a map of bildung and competencies
 ```{r make-map, echo=TRUE}
-#consider running infomap as api or just "by hand"
+#Use infomap membership file
 collectedMap<-makemap(memBB$membership,collectedNetworkBB)
 collectedMapBB<-backboneNetwork(collectedMap,0.001,1)
 V(collectedMapBB)$n_words<-V(collectedMap)$n_words
@@ -363,9 +363,12 @@ for(j in 1:length(networkTexts2)){
 
 delta_word<-wordLoadMatrix[1,]-wordLoadMatrix[2,]+1 #Bildung-Competence0+1;
 #0 means completely Competence, 1 means equal parts, 2 means completely Bildung
-
+V(collectedMapBB)$delta_word<-delta_word
 delta_link<-linkLoadMatrix[1,]-linkLoadMatrix[2,]+1 #Bildung-Competence0+1;
+
+V(collectedMapBB)$delta_link<-delta_link
 #0 means completely Competence, 1 means equal parts, 2 means completely Bildung
+
 ```
 ## Heatmaps
 ```{r outputs, echo=T}
@@ -398,23 +401,18 @@ write.xlsx(V(collectedNetwork)$name, paste0("networks/collectedWordlist", format
 ```
 #writing graphs
 ```{r write-graphs, echo=T}
-write.graph(collectedNetwork, paste0("networks/collectedNetwork", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".net"),format="pajek")
 
 write.graph(collectedNetwork, paste0("networks/collectedNetwork", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
 
-write.graph(collectedBildungNetworkBB, paste0("networks/collectedBildungNetworkBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".net"),format="pajek")
 
 write.graph(collectedBildungNetworkBB, paste0("networks/collectedBildungNetworkBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
 
-write.graph(collectedCompetenceNetworkBB, paste0("networks/collectedCompetenceNetworkBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".net"),format="pajek")
 
 write.graph(collectedCompetenceNetworkBB, paste0("networks/collectedCompetenceNetworkBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
 
-write.graph(collectedNetworkBB, paste0("networks/collectedNetworkBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".net"),format="pajek")
 
 write.graph(collectedNetworkBB, paste0("networks/collectedNetworkBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
 
-write.graph(collectedMapBB, paste0("networks/collectedMapBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".net"),format="pajek")
 
 write.graph(collectedMapBB, paste0("networks/collectedMapBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
 
