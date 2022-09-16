@@ -405,7 +405,7 @@ write.xlsx(V(collectedNetwork)$name, paste0("networks/collectedWordlist", format
 write.graph(collectedNetwork, paste0("networks/collectedNetwork", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
 
 
-write.graph(collectedBildungNetworkBB, paste0("networks/collectedBildungNetworkBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
+write.graph(collectedBildungNetworkBB, paste0("networks/collectedBildungNetworkBB", format(Sys.time(), "%d-%b-%Y"), ".graphml"),format="graphml")
 
 
 write.graph(collectedCompetenceNetworkBB, paste0("networks/collectedCompetenceNetworkBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
@@ -415,6 +415,7 @@ write.graph(collectedNetworkBB, paste0("networks/collectedNetworkBB", format(Sys
 
 
 write.graph(collectedMapBB, paste0("networks/collectedMapBB", format(Sys.time(), "%d-%b-%Y-%H-%M"), ".graphml"),format="graphml")
+write.graph(collectedMapBBB, paste0("networks/collectedMapBBB", format(Sys.time(), "%d-%b-%Y"), ".graphml"),format="graphml")
 
 write.graph(collectedMapBB,"networks/networksForInfomap/collectedMapBB.net",format="pajek")
 ```
